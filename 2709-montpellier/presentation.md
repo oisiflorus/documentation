@@ -1,6 +1,6 @@
-# Le 27/09 à Montpellier : Rendre mon projet environnemental économiquement viable
+# Le 05/10 à Montpellier : Rendre mon projet environnemental économiquement viable
 
-On se retrouve le jeudi 27/09, de 9h30 à 18h dans l'Ecusson ou pas loin, à Montpellier.
+On se retrouve le vendredi 5 octobre, de 9h30 à 18h dans l'Ecusson ou pas loin, à Montpellier.
 
 *D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : contacte-nous ;)*
 
@@ -17,15 +17,11 @@ Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact
 Ce n'est pas une formation avec un programme défini, mais on peut s'essayer à faire un peu de voyance ;)
 
 Je vois que tu vas venir et que tu vas repartir avec :
-- une approche souple et naturelle pour aborder les problèmatiques financières.
-- des outils adaptés et flexibles pour sortir des poussiéreux "Business Plan".
-- des rencontres sympas pour obtenir des retours et démarrer un réseau.
-
-Les discussions sont fixées par les participant.e.s au début de la journée, ça pourrait par exemple partir sur : 
-- Des discussions autour des éléments financiers "de base" de l'entreprise
-- Une façon d'analyser mon modèle économique
+- Des éclaircissements sur l'analyse financière "de base" de l'entreprise
+- Une façon d'analyser ton modèle économique
 - Des pistes de financements possibles
-- Des idées de comment générer du chiffre d'affaires selon mon activité
+- Des idées de comment générer du chiffre d'affaires selon ton activité
+- des rencontres sympas pour obtenir des retours et démarrer un réseau.
 
 ## C'est quoi, une "Journée de cogitation" ?
 Sur une journée, en explorant des lieux insolites dans Montpellier, on va réfléchir/apprendre ensemble comment rendre un projet personnel plus solide financièrement.
@@ -43,10 +39,10 @@ Nous sommes un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine 
 Avec cet argent, nous constituons un pot commun pour régler toutes les consommations et le déjeuner. Les organisateur.rice.s ne sont pas rémunéré.e.s (mais leurs cafés et thés sont offerts :)).
 
 **Et si c’est trop cher pour moi ?** 
-Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution !
+Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va trouver une solution !
 
 ## J'en suis ! Comment je m'inscris ?
 Envoie simplement un email à sabine.safi at gmail.com.
-Avant la journée, on s'appelera 1/2h pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.
+Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.
 
 **Pour plus d'informations : [voir la FAQ](../FAQ-journee-cogitation.md)**
