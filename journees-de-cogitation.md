@@ -3,12 +3,12 @@
 *Par souci de lisibilité, ici “vert.e” s’entend par “à impact environnemental positif”.*
 
 ## Dates et thèmes
-- [**Montpellier** : 5/10 - _Comment rendre viable mon projet "vert" ?](2709-montpellier/presentation.html)
-- **Bordeaux** : 11/10 - _De l’idée au projet pour réduire le plastique ?_
+- [**Montpellier** : 5/10 - _Comment rendre viable mon projet "vert" ?_](2709-montpellier/presentation.html)
+- **Bordeaux** : 11/10 - _De l’idée au projet pour réduire le plastique_
 - **Lyon** : 18/10 - _De quoi ont besoin les projets "verts" ?_
-- **Nantes** : 25/10 - _Comment démarrer mon projet "verts" ?_
-- **Toulouse** : 1/11 - _Faire des trucs pour réduire notre impact sur l’eau ?_
-- **Paris** : 8/11 - _Comprendre les aides publics pour les projets "verts" ?_
+- **Nantes** : 25/10 - _Comment démarrer mon projet "vert" ?_
+- **Toulouse** : 1/11 - _Faire des trucs pour réduire notre impact sur l’eau_
+- **Paris** : 8/11 - _Comprendre les aides publiques pour les projets "verts"_
 
 Un thème ou une date t'intéresse mais ne colle pas parfaitement pour une raison ou pour une autre ? Un thème déjà fait ou même pas programmé (voir ci-dessous) t'intéresse ? Contacte-nous : sabine.safi at gmail.com
 
