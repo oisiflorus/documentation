@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bordeaux : jeudi 11 octobre - De l’idée au projet pour réduire le plastique ?",
+        "description": "Journée de cogitation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.569201,
+          44.814272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "",
+        "name": "Nantes : jeudi 25 octobre - Comment démarrer mon projet environnemental ?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.558223,
+          47.208431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lyon : jeudi 18 octobre - De quoi on besoin les projets environnementaux ?",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.837453,
+          45.741477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "",
+        "name": "Montpellier : vendredi 5 octobre - Comment rendre viable mon projet environnemental ?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.870409,
+          43.602161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toulouse : jeudi 1er novembre - Faire des trucs pour réduire notre impact sur l’eau ?",
+        "description": "Journée de cogitation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.452799,
+          43.602161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paris : jeudi 8 novembre - Comprendre les aides publics pour les projets environnementaux ?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375982,
+          48.836122
+        ]
+      }
+    }
+  ]
+}
