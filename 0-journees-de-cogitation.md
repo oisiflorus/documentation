@@ -3,7 +3,7 @@
 *Par souci de lisibilité, ici “vert.e” s’entend par “à impact environnemental positif”.*
 
 ## Dates et thèmes
-- [**Montpellier** : 5/10 - _Comment rendre viable mon projet "vert" ?] (2709-montpellier/presentation.html)
+- [**Montpellier** : 5/10 - _Comment rendre viable mon projet "vert" ?](2709-montpellier/presentation.html)
 - **Bordeaux** : 11/10 - _De l’idée au projet pour réduire le plastique ?_
 - **Lyon** : 18/10 - _De quoi ont besoin les projets "verts" ?_
 - **Nantes** : 25/10 - _Comment démarrer mon projet "verts" ?_
