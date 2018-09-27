@@ -2,11 +2,10 @@
 
 On se retrouve le vendredi 5 octobre, de 9h30 à 18h dans l'Ecusson ou pas loin, à Montpellier.
 
-*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : contacte-nous ;)*
-
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
+*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : contacte-nous ;)*
 
 ## C'est pour qui ?
 - Pour les entrepreneur.e.s qui ont lancé leur activité "verte" et veulent renforcer ou valider la viabilité économique.
