@@ -23,8 +23,8 @@ Je vois que tu vas venir et que tu vas repartir avec :
 - des rencontres sympas pour obtenir des retours et démarrer un réseau.
 
 ## C'est quoi, une "Journée de cogitation" ?
-Sur une journée, en explorant des lieux insolites dans Montpellier, on va réfléchir/apprendre ensemble comment rendre un projet personnel plus solide financièrement.
-On commence la ballade en échangeant sur les attentes et en définissant le programme.
+Sur une journée, en explorant des lieux insolites dans Montpellier, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.
+On commence la journée en définissant ensemble le programme, selon les attentes de chacun.e.
 Dans chaque nouveau lieu on fera un nouvel atelier.
 On profite des trajets pour débriefer sur ce qu'on vient de faire.
 
@@ -34,8 +34,7 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire.
 Nous sommes un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine de l'environnement. À nous tou.te.s, nous avons l'expérience de la création de différents types d'entreprises, startups, scop et associations, du travail collaboratif et de l'implication dans des projets environnementaux variés.
 
 ## C'est payant ?
-Ça coûte 50€ par personne.
-Avec cet argent, nous constituons un pot commun pour régler toutes les consommations et le déjeuner. Les organisateur.rice.s ne sont pas rémunéré.e.s (mais leurs cafés et thés sont offerts :)).
+On propose 50€ par personne, le prix est libre et dialogué. [RDV sur cette page](../prix-libre-et-dialogue.html) pour comprendre les coûts et décider de ta participation.
 
 **Et si c’est trop cher pour moi ?** 
 Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va trouver une solution !
