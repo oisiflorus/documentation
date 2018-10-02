@@ -15,12 +15,12 @@ Tablons sur 7 participant.e.s donc 2 organisateur.rice.s et 5 étapes. Les monta
 
 ### Coûts directs de la journée
 - Etape 1 : petit-déj, 6€ /pers --> 42€
-- Etape 2 : 1 boisson, 4€ /pers --> 28€
+- Etape 2 : 1 boisson, 3€ /pers --> 21€
 - Etape 3 : déjeuner, 15€ /pers --> 105€
-- Etape 4 : une boisson, 4€ /pers --> 28€
+- Etape 4 : une boisson, 3€ /pers --> 21€
 - Etape 5 : goûter, 6€ /pers --> 42€
 
-Total : 246€ soit 35€ /pers
+Total : 232€ soit 31€ /pers
 
 ### Coûts d'organisation
 
