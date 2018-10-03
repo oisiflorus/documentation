@@ -13,9 +13,7 @@ Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact
 - Pour des personnes qui veulent contribuer au développement d'entreprises "vertes" en mettant à disposition leur temps et leur expertise.
 
 ## Qu'est-ce que je vais retirer de cette journée ?
-Ce n'est pas une formation avec un programme défini, mais on peut s'essayer à faire un peu de voyance ;)
-
-Je vois que tu vas venir et que tu vas repartir avec :
+On définira ensemble le programme exact de la journée en arrivant. Par exemple, tu pourrais repartir avec : 
 - Des éclaircissements sur l'analyse financière "de base" de l'entreprise
 - Une façon d'analyser ton modèle économique
 - Des pistes de financements possibles
