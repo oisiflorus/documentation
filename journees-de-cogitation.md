@@ -5,7 +5,7 @@
 ## Dates et thèmes
 - [**Montpellier** : 5/10 - _Comment rendre viable mon projet "vert" ?_](2709-montpellier/presentation.html)
 - [**Bordeaux** : 11/10 - _Comment rendre viable mon projet "vert" ?_](1110-bordeaux.html)
-- **Lyon** : 18/10 - _Faire des trucs pour réduire notre impact sur l’eau_
+- **Lyon** : 18/10 - _Réduire notre impact sur l’eau_
 - **Nantes** : 25/10 - _Comment démarrer mon projet "vert" ?_
 - **Toulouse** : 1/11 - _De quoi ont besoin les projets "verts" ?_
 - **Paris** : 8/11 - _Comprendre les aides publiques pour les projets "verts"_
