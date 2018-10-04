@@ -25,7 +25,7 @@ Eh non. Il n'y a pas formateur.rice parmi nous. Mais ça n'empêche pas d'appren
 C'est OK ! Fais-nous signe et on te rajoutera à la liste de celles et ceux à contacter pour la prochaine session. 
 
 ## Et si j'ai une question ?
-Tu peux contacter Stéphane : stephane.langlois at scopyleft.fr. Il sera RA-VI de te répondre !
+Tu peux contacter n'importe lequel ou laquelle d'entre nous [depuis cette page](nous-contacter.html), on sera RA-VI.E de te répondre !
 
 
 ## Vous êtes qui et pourquoi vous faites ça ?
