@@ -1,8 +1,8 @@
-# Le 11/10 à Bordeaux : Rendre mon projet environnemental économiquement viable
+# Le 18/10 à Lyon : Réduire notre impact sur l'eau
 
-On se retrouve le jeudi 11 octobre, de 9h30 à 18h dans le centre de Bordeaux.
+On se retrouve le jeudi 18 octobre, de 9h30 à 18h à Lyon.
 
-Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet ou entreprise.
+Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour cogiter sur l'eau.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
 *D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : [contacte-nous](../../a-propos-de-nous/nous-contacter.html) ;)*
@@ -13,15 +13,15 @@ Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact
 - Pour des personnes qui veulent contribuer au développement d'entreprises "vertes" en mettant à disposition leur temps et leur expertise.
 
 ## Qu'est-ce que je vais retirer de cette journée ?
-On définira ensemble le programme exact de la journée en arrivant. Par exemple, tu pourrais repartir avec : 
-- Des éclaircissements sur l'analyse financière "de base" de l'entreprise
-- Une façon d'analyser ton modèle économique
-- Des pistes de financements possibles
-- Des idées de comment générer du chiffre d'affaires selon ton activité
-- des rencontres sympas pour obtenir des retours et démarrer un réseau
+Ce n'est pas une formation avec un programme défini, mais on peut s'essayer à faire un peu de voyance ;)
+
+Je vois que tu vas venir et que tu vas repartir avec :
+- Des éclaircissements sur les cycles de l'eau
+- Des pratiques claires pour améliorer ta relation avec l'eau
+- Démarrer un réseau de personnes motivées
 
 ## C'est quoi, une "Journée de cogitation" ?
-Sur une journée, en explorant des lieux insolites dans Bordeaux, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.
+Sur une journée, en explorant des lieux insolites dans Montpellier, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.
 On commence la journée en définissant ensemble le programme, selon les attentes de chacun.e.
 Dans chaque nouveau lieu on fera un nouvel atelier.
 On profite des trajets pour débriefer sur ce qu'on vient de faire.

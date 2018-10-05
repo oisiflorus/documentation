@@ -5,7 +5,7 @@ On se retrouve le vendredi 5 octobre, de 9h30 à 18h dans l'Ecusson ou pas loin,
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
-*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : contacte-nous ;)*
+*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : [contacte-nous](../../a-propos-de-nous/nous-contacter.html) ;)*
 
 ## C'est pour qui ?
 - Pour les entrepreneur.e.s qui ont lancé leur activité "verte" et veulent renforcer ou valider la viabilité économique.
@@ -20,7 +20,7 @@ Je vois que tu vas venir et que tu vas repartir avec :
 - Une façon d'analyser ton modèle économique
 - Des pistes de financements possibles
 - Des idées de comment générer du chiffre d'affaires selon ton activité
-- des rencontres sympas pour obtenir des retours et démarrer un réseau.
+- des rencontres sympas pour obtenir des retours et démarrer un réseau
 
 ## C'est quoi, une "Journée de cogitation" ?
 Sur une journée, en explorant des lieux insolites dans Montpellier, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.
@@ -40,7 +40,7 @@ On propose 30€ par personne, le prix est libre et dialogué. [RDV sur cette pa
 Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va trouver une solution !
 
 ## J'en suis ! Comment je m'inscris ?
-Contacte n'importe lequel ou laquelle d'entre nous [à partir de cette page](../nous-contacter.html).
+Contacte n'importe lequel ou laquelle d'entre nous [à partir de cette page](../../a-propos-de-nous/nous-contacter.html).
 Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.
 
 **Pour plus d'informations : [voir la FAQ](../FAQ-journee-cogitation.md)**
