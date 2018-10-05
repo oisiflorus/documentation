@@ -5,7 +5,7 @@ On se retrouve le jeudi 25 octobre, de 9h30 à 18h dans le centre de ville Montp
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
-*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : contacte-nous ;)*
+*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : [contacte-nous](../../a-propos-de-nous/nous-contacter.html) ;)*
 
 ## C'est pour qui ?
 - Pour les entrepreneur.e.s qui ont lancé leur activité "verte" et veulent renforcer ou valider la viabilité économique.
