@@ -44,9 +44,10 @@
         margin-bottom: 0;
         padding-left: 0;
     }
+    /* end reset */
 
     body {
-        color: #4d4d4d;
+        color: #002920;
         background: #fcf9ff;
         font-size: 20px;
     }
@@ -103,12 +104,13 @@
 
     a {
         color: #4d4d4d;
-        padding: .2em;
+        padding: 0 .2em;
         transition: all 0.4s linear;
+        border-bottom: #73d56b solid 1px;
     }
     a:hover, a:focus {
-        background: #C1A683;
-        color: #fff;
+        background: #73d56b;
+        color: #000;
         text-decoration: none;
     }
 
@@ -125,6 +127,7 @@
     .summary h1 {
         font-size: 2em;
         border-bottom: #4d4d4d solid 1px;
+        padding-top: 1em;
     }
 
     .summary h2 {
@@ -133,16 +136,12 @@
 
     .summary ul {
         list-style: none;
+        padding-top: .5em;
     }
 
     .summary li {
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         padding: .2em;
-    }
-
-    .summary hr {
-        width: 30%;
-        color:#ccc;
     }
 
     .subscribe {
@@ -151,15 +150,14 @@
     }
 
     .subscribe a {
-        color: #000;
         background: none;
         padding: .5em;
-        border: 1px solid #C1A683;
+        border: 1px solid #002920;
     }
 
     .subscribe a:hover,
     .subscribe a:focus {
-        background: #C1A683;
+        background: #002920;
         color: #FFFFFF;
     }
 
@@ -184,11 +182,9 @@
 <section class=summary>
     <h1>Sommaire</h1>
         <h2>Le tour de France des journées de cogitation</h2>
-        <hr>
         <ul>
             <li><a href=http://www.oisiflorus.com/journees-de-cogitation.html>Présentation des journées de cogitation</a></li>
         </ul>
-        <hr>
         <ul>
             <li><a href=http://www.oisiflorus.com/2709-montpellier/presentation.html>05/10 - Montpellier - Comment rendre viable mon projet “vert” ?</a></li>
             <li><a href=http://www.oisiflorus.com/2709-montpellier/presentation.html>11/10 - Bordeaux - Comment rendre viable mon projet “vert” ?</a></li>
@@ -199,7 +195,6 @@
         </ul>
         <p class=subscribe><a href=#>s'inscrire</a></p>
         <h2>Le collectif</h2>
-        <hr>
         <ul>
             <li><a href=#>Qui sommes nous ?</a></li>
             <li><a href=#>Nos valeurs</a></li>
@@ -208,7 +203,6 @@
         </ul>
 
         <h2>Sujets divers</h2>
-        <hr>
         <ul>
             <li><a href=#>Prix dialogué</a></li>
             <li><a href=#>Nous rejoindre, contribuer</a></li>
