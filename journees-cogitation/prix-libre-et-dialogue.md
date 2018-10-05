@@ -37,4 +37,4 @@ On en discutera en début de journée et on ajustera ce qu'on boit et ce qu'on m
 ## J'ai encore des questions ou des remarques !
 
 La discussion préalable de 30 min avec tout.e.s les participant.e.s sert à ça :)
-Tu peux aussi nous contacter par écrit [via la page de contact](nous-contacter.html) - on n'attend que ça ;)
+Tu peux aussi nous contacter par écrit [via la page de contact](a-propos-de-nous/nous-contacter.html) - on n'attend que ça ;)
