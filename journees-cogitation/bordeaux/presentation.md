@@ -5,7 +5,7 @@ On se retrouve le jeudi 11 octobre, de 9h30 à 18h dans le centre de Bordeaux.
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet ou entreprise.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
-*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : contacte-nous ;)*
+*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../index.html). On est flexibles, le programme peut changer : [contacte-nous](../a-propos-de-nous/nous-contacter.html) ;)*
 
 ## C'est pour qui ?
 - Pour les entrepreneur.e.s qui ont lancé leur activité "verte" et veulent renforcer ou valider la viabilité économique.
@@ -26,7 +26,7 @@ On commence la journée en définissant ensemble le programme, selon les attente
 Dans chaque nouveau lieu on fera un nouvel atelier.
 On profite des trajets pour débriefer sur ce qu'on vient de faire.
 
-**Pour plus d'informations : [voir la FAQ](../FAQ-journee-cogitation.md)**
+**Pour plus d'informations : [voir la FAQ](../journees-cogitation/FAQ-journee-cogitation.html)**
 
 ## Qui organise ?
 Nous sommes un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine de l'environnement. À nous tou.te.s, nous avons l'expérience de la création de différents types d'entreprises, startups, scop et associations, du travail collaboratif et de l'implication dans des projets environnementaux variés.
@@ -38,7 +38,7 @@ On propose 30€ par personne, le prix est libre et dialogué. [RDV sur cette pa
 Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va trouver une solution !
 
 ## J'en suis ! Comment je m'inscris ?
-Contacte n'importe lequel ou laquelle d'entre nous [à partir de cette page](../nous-contacter.html).
+Contacte n'importe lequel ou laquelle d'entre nous [à partir de cette page](../a-propos-de-nous/nous-contacter.html).
 Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.
 
-**Pour plus d'informations : [voir la FAQ](../FAQ-journee-cogitation.md)**
+**Pour plus d'informations : [voir la FAQ](../journees-cogitation/FAQ-journee-cogitation.html)**
