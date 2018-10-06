@@ -2,26 +2,27 @@
 
 On se retrouve le jeudi 8 octobre, de 9h30 à 18h à Paris, on démarre au marché d'Aligre.
 
-Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour mieux comprendre comment la puissance publique peut faciliter l'émergence d'initiatives liées aux problématiques environnementales.
+Nous allons cogiter avec des personnes impliquées dans le financement des projets environnementaux et des entrepreneur.e.s "vert.e.s" pour mieux comprendre comment la puissance publique peut faciliter l'émergence d'initiatives liées aux problématiques environnementales.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
-*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : [contacte-nous](../../a-propos-de-nous/nous-contacter.html) ;)*
+*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md).*
 
 ## C'est pour qui ?
-- Pour les entrepreneur.e.s qui souhaitent lancer une activité "verte".
-- Pour les porteur.se.s de projet "vert" qui ont des difficultés pour trouver les fonds d'amorçage.
-- Pour les collectifs et structures qui souhaiteraient comprendre le contexte des aides financières avant de s'engager dans le développement d'un produit.
+- Pour les **agents de la fonction publique impliqués dans le financement** des projets environnementaux, qui souhaitent échanger sur leurs pratiques, leurs problématiques et cogiter avec d'autres parties prenantes dans un cadre dépollué,
+- Pour les **entrepreneur.e.s "vert.e.s" qui ont déjà obtenu des financements publics** et souhaitent mieux comprendre comment ça marche et témoigner de leur expérience pour améliorer ces dispositifs,
+- Pour les **porteur.se.s de projet "vert"** qui pourraient avoir besoin de financements publics plus tard et souhaitent comprendre comment ça fonctionne.
 
 ## Qu'est-ce que je vais retirer de cette journée ?
-Ce n'est pas une formation avec un programme défini, mais on peut s'essayer à faire un peu de voyance ;)
 
-Je vois que tu vas venir et que tu vas repartir avec :
-- Des éclaircissements sur le paysage des aides financières dans le domaine de l'environnement
-- Des pistes de financements possibles
-- Rencontrer des personnes ressources et démarrer un réseau avec des personnes motivées.
+On définira ensemble le programme exact de la journée en arrivant. Par exemple, tu pourrais repartir avec :
+
+- Une vision globale du paysage des aides financières dans le domaine de l'environnement
+- Des cogitations sur les difficultés des financeurs publics, avec des personnes aux profils et expériences variées
+- Des cogitations sur les difficultés des entrepreneur.e.s "vert.e.s", avec des personnes aux profils et expériences variées
+- Des rencontres sympas et utiles pour ton travail ou ton projet
 
 ## C'est quoi, une "Journée de cogitation" ?
-Sur une journée, en explorant des lieux insolites dans Paris, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.
+Sur une journée, en explorant des lieux insolites dans Paris, on va réfléchir à et découvrir ensemble comment fonctionne le financement public des projets "verts" et comment le rendre plus satisfaisant pour toutes les parties prenantes.
 On commence la journée en définissant ensemble le programme, selon les attentes de chacun.e.
 Dans chaque nouveau lieu on fera un nouvel atelier.
 On profite des trajets pour débriefer sur ce qu'on vient de faire.
