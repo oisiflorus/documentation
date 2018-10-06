@@ -1,29 +1,31 @@
-# Le 01/11 à Toulouse : Comment démarrer mon projet "vert" ? 
+# Le 9/11 à Toulouse : Comment démarrer mon projet environnemental ?
 
-On se retrouve le jeudi 1er novembre, de 9h30 à 18h dans le centre de Toulouse.
+On se retrouve le vendredi 9 novembre **ou bien le samedi 10 novembre**, de 9h30 à 18h dans le centre de Toulouse. Pourquoi 2 dates ? Parce qu'on est flexibles et qu'on s'adaptera à la date qui arrange le plus grand nombre.
 
-Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
+Nous allons cogiter avec des personnes qui ont un projet ou entreprise environnementale, pour la (re)lancer rapidement, tester les hypothèses initiales et éclaircir les étapes suivantes.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
-*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : contacte-nous ;)*
+*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md).*
 
 ## C'est pour qui ?
-- Pour les entrepreneur.e.s qui ont lancé leur activité "verte" et veulent renforcer ou valider la viabilité économique.
-- Pour les porteur.se.s de projet "vert" qui ont des doutes ou des difficultés sur les aspects financiers.
-- Pour des personnes qui veulent contribuer au développement d'entreprises "vertes" en mettant à disposition leur temps et leur expertise.
+- Les personnes qui ont un projet "vert" et qui aimeraient baliser et valider les prochaines étapes.
+- Les entrepreneur.e.s qui ont lancé leur activité "verte" et ne sont pas satisfait.e.s d'où ils & elles en sont (définir son offre, trouver des clients...),
+- Les personnes en activité qui veulent lancer un nouveau projet "vert" dans le cadre de cette activité.
 
 ## Qu'est-ce que je vais retirer de cette journée ?
-Ce n'est pas une formation avec un programme défini, mais on peut s'essayer à faire un peu de voyance ;)
+On définira ensemble le programme exact de la journée en arrivant. Par exemple, tu pourrais repartir avec :
 
-Je vois que tu vas venir et que tu vas repartir avec :
-- Des éclaircissements sur l'analyse financière "de base" de l'entreprise
-- Une façon d'analyser ton modèle économique
-- Des pistes de financements possibles
-- Des idées de comment générer du chiffre d'affaires selon ton activité
-- des rencontres sympas pour obtenir des retours et démarrer un réseau.
+- La méthode Running Lean (lancer son projet et trouver rapidement un plan qui marche), expliquée et appliquée à ton cas.
+- Comment définir ton offre à partir des besoins de tes clients.
+- Savoir qui sont tes clients.
+- Un ou des modèles économiques (*business model*) possibles pour toi.
+- Des cogitations sur tes problèmes du moment, avec des personnes aux profils et expériences variées.
+- Des rencontres sympas pour obtenir des retours et démarrer un réseau.
 
 ## C'est quoi, une "Journée de cogitation" ?
-Sur une journée, en explorant des lieux insolites dans Toulouse, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.
+
+Sur une journée, en explorant des lieux insolites dans Toulouse, on va réfléchir/apprendre ensemble comment démarrer ton projet sur de bonnes bases.
+
 On commence la journée en définissant ensemble le programme, selon les attentes de chacun.e.
 Dans chaque nouveau lieu on fera un nouvel atelier.
 On profite des trajets pour débriefer sur ce qu'on vient de faire.
