@@ -23,7 +23,7 @@ Je vois que tu vas venir et que tu vas repartir avec :
 - des rencontres sympas pour obtenir des retours et démarrer un réseau.
 
 ## C'est quoi, une "Journée de cogitation" ?
-Sur une journée, en explorant des lieux insolites dans Montpellier, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.
+Sur une journée, en explorant des lieux insolites dans Nantes, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.
 On commence la journée en définissant ensemble le programme, selon les attentes de chacun.e.
 Dans chaque nouveau lieu on fera un nouvel atelier.
 On profite des trajets pour débriefer sur ce qu'on vient de faire.
