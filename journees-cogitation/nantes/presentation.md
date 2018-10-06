@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Le 2/11 à Nantes : Comment démarrer mon projet environnemental ?
 
 On se retrouve le vendredi 2 novembre **ou bien le samedi 3 novembre**, de 9h30 à 18h dans le centre de ville Nantes. Pourquoi 2 dates ? Parce qu'on est flexibles et qu'on s'adaptera à la date qui arrange le plus grand nombre.
