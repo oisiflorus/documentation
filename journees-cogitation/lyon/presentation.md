@@ -1,6 +1,6 @@
-# Le 18/10 à Lyon : Réduire notre impact sur l'eau
+# Le 27/10 à Lyon : Réduire notre impact sur l'eau
 
-On se retrouve le jeudi 18 octobre, de 9h30 à 18h à Lyon.
+On se retrouve le samedi 27 octobre, de 9h30 à 18h à Lyon.
 
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour cogiter sur l'eau.
 
