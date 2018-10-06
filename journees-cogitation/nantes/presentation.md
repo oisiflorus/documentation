@@ -1,6 +1,6 @@
 # Le 2/11 à Nantes : Comment démarrer mon projet environnemental ?
 
-On se retrouve le vendredi 2 novembre **ou bien le samedi 3 novembre**, de 9h30 à 18h dans le centre de ville Nantes. Pourquoi 2 dates ? Parce qu'on est flexibles et qu'on s'adaptera à la date qui arrange le plus grand nombre.
+On se retrouve le vendredi 2 novembre **ou bien le samedi 3 novembre**, de 9h30 à 18h dans au [Lieu Unique](http://www.lelieuunique.com/). Pourquoi 2 dates ? Parce qu'on est flexibles et qu'on s'adaptera à la date qui arrange le plus grand nombre.
 
 Nous allons cogiter avec des personnes qui ont un projet ou entreprise environnementale, pour la (re)lancer rapidement, tester les hypothèses initiales et éclaircir les étapes suivantes.
 
@@ -8,18 +8,18 @@ Nous allons cogiter avec des personnes qui ont un projet ou entreprise environne
 *D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md).*
 
 ## C'est pour qui ?
-- Les personnes qui ont un projet "vert" et qui aimeraient baliser et valider le chemin devant,
+- Les personnes qui ont un projet "vert" et qui aimeraient baliser et valider les prochaines étapes.
 - Les entrepreneur.e.s qui ont lancé leur activité "verte" et ne sont pas satisfait.e.s d'où ils & elles en sont (définir son offre, trouver des clients...),
-- Les personnes en activité qui  veulent lancer un nouveau projet "vert" dans le cadre de cette activité.
+- Les personnes en activité qui veulent lancer un nouveau projet "vert" dans le cadre de cette activité.
 
 ## Qu'est-ce que je vais retirer de cette journée ?
 On définira ensemble le programme exact de la journée en arrivant. Par exemple, tu pourrais repartir avec :
 
-- La méthode Running Lean (lancer son projet et trouver rapidement un plan qui marche), expliquée et appliquée à ton cas,
-- Comment définir ton offre à partir des besoins de tes clients
-- Savoir qui sont tes clients
-- Un ou des modèles économiques (*business model*) possibles pour toi
-- Des cogitations sur tes problèmes du moment, avec des personnes aux profils et expériences variées 
+- La méthode Running Lean (lancer son projet et trouver rapidement un plan qui marche), expliquée et appliquée à ton cas.
+- Comment définir ton offre à partir des besoins de tes clients.
+- Savoir qui sont tes clients.
+- Un ou des modèles économiques (*business model*) possibles pour toi.
+- Des cogitations sur tes problèmes du moment, avec des personnes aux profils et expériences variées.
 - Des rencontres sympas pour obtenir des retours et démarrer un réseau.
 
 ## C'est quoi, une "Journée de cogitation" ?

@@ -13,7 +13,9 @@ Nous allons cogiter avec des personnes impliquées dans le financement des proje
 - Pour les **porteur.se.s de projet "vert"** qui pourraient avoir besoin de financements publics plus tard et souhaitent comprendre comment ça fonctionne.
 
 ## Qu'est-ce que je vais retirer de cette journée ?
+
 On définira ensemble le programme exact de la journée en arrivant. Par exemple, tu pourrais repartir avec :
+
 - Une vision globale du paysage des aides financières dans le domaine de l'environnement
 - Des cogitations sur les difficultés des financeurs publics, avec des personnes aux profils et expériences variées
 - Des cogitations sur les difficultés des entrepreneur.e.s "vert.e.s", avec des personnes aux profils et expériences variées
