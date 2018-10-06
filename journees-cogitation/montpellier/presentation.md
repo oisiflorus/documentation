@@ -1,6 +1,6 @@
-# Le 05/10 à Montpellier : Rendre mon projet environnemental économiquement viable
+# Le 17/11 à Montpellier : Rendre mon projet environnemental économiquement viable
 
-On se retrouve le vendredi 5 octobre, de 9h30 à 18h dans l'Ecusson ou pas loin, à Montpellier.
+On se retrouve le samedi 17 novembre, de 9h30 à 18h dans l'Ecusson ou pas loin, à Montpellier.
 
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
 
@@ -20,7 +20,7 @@ Je vois que tu vas venir et que tu vas repartir avec :
 - Une façon d'analyser ton modèle économique
 - Des pistes de financements possibles
 - Des idées de comment générer du chiffre d'affaires selon ton activité
-- des rencontres sympas pour obtenir des retours et démarrer un réseau
+- Des rencontres sympas pour obtenir des retours et démarrer un réseau
 
 ## C'est quoi, une "Journée de cogitation" ?
 Sur une journée, en explorant des lieux insolites dans Montpellier, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.

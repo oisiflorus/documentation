@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Le 2/11 à Nantes : Comment démarrer mon projet environnemental ?
 
 On se retrouve le vendredi 2 novembre **ou bien le samedi 3 novembre**, de 9h30 à 18h dans le centre de ville Nantes. Pourquoi 2 dates ? Parce qu'on est flexibles et qu'on s'adaptera à la date qui arrange le plus grand nombre.
@@ -23,7 +24,9 @@ On définira ensemble le programme exact de la journée en arrivant. Par exemple
 - Des rencontres sympas pour obtenir des retours et démarrer un réseau.
 
 ## C'est quoi, une "Journée de cogitation" ?
+
 Sur une journée, en explorant des lieux insolites dans Nantes, on va réfléchir/apprendre ensemble comment démarrer ton projet sur de bonnes bases.
+
 On commence la journée en définissant ensemble le programme, selon les attentes de chacun.e.
 Dans chaque nouveau lieu on fera un nouvel atelier.
 On profite des trajets pour débriefer sur ce qu'on vient de faire.

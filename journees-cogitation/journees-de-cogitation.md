@@ -28,7 +28,7 @@ Nous organisons des journées sur des thèmes très variés pour tester différe
 ## Autres thèmes qu'on avait envisagés (qui peuvent donc revenir !!)
 - Un impact environnemental positif depuis mon balcon
 - Réaliser des projets non-viables ?
-- planter des fleurs, des arbres
+- planter des trucs
 - Des initiatives qui ont un impact positif ?
 - Cartographier les causes et les effets liés au changement climatique ?
 - Militer ou agir ?
