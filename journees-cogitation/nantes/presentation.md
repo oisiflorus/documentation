@@ -1,13 +1,14 @@
-# Le 25/10 à Montpellier : Rendre mon projet environnemental économiquement viable
+# Le 2/11 à Nantes : Comment démarrer mon projet environnemental ?
 
-On se retrouve le jeudi 25 octobre, de 9h30 à 18h dans le centre de ville Montpellier.
+On se retrouve le vendredi 2 novembre **ou bien le samedi 3 novembre**, de 9h30 à 18h dans le centre de ville Nantes. Pourquoi 2 dates ? Parce qu'on est flexibles et qu'on s'adaptera à la date qui arrange le plus grand nombre.
 
-Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
+Nous allons cogiter avec des personnes qui ont un projet ou entreprise environnementale, pour la (re)lancer rapidement, tester les hypothèses initiales et éclaircir les étapes suivantes.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
-*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : [contacte-nous](../../a-propos-de-nous/nous-contacter.html) ;)*
+*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md).*
 
 ## C'est pour qui ?
+- Les personnes qui ont un projet "vert" 
 - Pour les entrepreneur.e.s qui ont lancé leur activité "verte" et veulent renforcer ou valider la viabilité économique.
 - Pour les porteur.se.s de projet "vert" qui ont des doutes ou des difficultés sur les aspects financiers.
 - Pour des personnes qui veulent contribuer au développement d'entreprises "vertes" en mettant à disposition leur temps et leur expertise.
