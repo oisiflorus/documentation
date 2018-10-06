@@ -18,7 +18,7 @@ Ce n'est pas une formation avec un programme défini, mais on peut s'essayer à 
 Je vois que tu vas venir et que tu vas repartir avec :
 - Des éclaircissements sur le paysage des aides financières dans le domaine de l'environnement
 - Des pistes de financements possibles
-- Des rencontres sympas pour démarrer un réseau et .
+- Rencontrer des personnes ressources et démarrer un réseau avec des personnes motivées.
 
 ## C'est quoi, une "Journée de cogitation" ?
 Sur une journée, en explorant des lieux insolites dans Paris, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.
