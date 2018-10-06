@@ -1,4 +1,4 @@
-# Le 01/11 à Montpellier : Comment démarrer mon projet "vert" ? 
+# Le 01/11 à Toulouse : Comment démarrer mon projet "vert" ? 
 
 On se retrouve le jeudi 1er novembre, de 9h30 à 18h dans le centre de Toulouse.
 

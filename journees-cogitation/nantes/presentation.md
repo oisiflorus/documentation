@@ -1,6 +1,6 @@
-# Le 25/10 à Montpellier : Rendre mon projet environnemental économiquement viable
+# Le 25/10 à Nantes : Rendre mon projet environnemental économiquement viable
 
-On se retrouve le jeudi 25 octobre, de 9h30 à 18h dans le centre de ville Montpellier.
+On se retrouve le jeudi 25 octobre, de 9h30 à 18h dans le centre de ville Nantes.
 
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
 
