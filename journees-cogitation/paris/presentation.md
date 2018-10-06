@@ -1,26 +1,24 @@
 # Le 08/11 à Paris : Comprendre les aides publiques pour les projets "verts"
 
-On se retrouve le jeudi 8 octobre, de 9h30 à 18h à Paris.
+On se retrouve le jeudi 8 octobre, de 9h30 à 18h à Paris, on démarre au marché d'Aligre.
 
-Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
+Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour mieux comprendre comment la puissance publique peut faciliter l'émergence d'initiatives liées aux problématiques environnementales.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
 *D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : [contacte-nous](../../a-propos-de-nous/nous-contacter.html) ;)*
 
 ## C'est pour qui ?
-- Pour les entrepreneur.e.s qui ont lancé leur activité "verte" et veulent renforcer ou valider la viabilité économique.
-- Pour les porteur.se.s de projet "vert" qui ont des doutes ou des difficultés sur les aspects financiers.
-- Pour des personnes qui veulent contribuer au développement d'entreprises "vertes" en mettant à disposition leur temps et leur expertise.
+- Pour les entrepreneur.e.s qui souhaitent lancer une activité "verte".
+- Pour les porteur.se.s de projet "vert" qui ont des difficultés pour trouver les fonds d'amorçage.
+- Pour les collectifs et structures qui souhaiteraient comprendre le contexte des aides financières avant de s'engager dans le développement d'un produit.
 
 ## Qu'est-ce que je vais retirer de cette journée ?
 Ce n'est pas une formation avec un programme défini, mais on peut s'essayer à faire un peu de voyance ;)
 
 Je vois que tu vas venir et que tu vas repartir avec :
-- Des éclaircissements sur l'analyse financière "de base" de l'entreprise
-- Une façon d'analyser ton modèle économique
+- Des éclaircissements sur le paysage des aides financières dans le domaine de l'environnement
 - Des pistes de financements possibles
-- Des idées de comment générer du chiffre d'affaires selon ton activité
-- des rencontres sympas pour obtenir des retours et démarrer un réseau.
+- Des rencontres sympas pour démarrer un réseau et .
 
 ## C'est quoi, une "Journée de cogitation" ?
 Sur une journée, en explorant des lieux insolites dans Paris, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.

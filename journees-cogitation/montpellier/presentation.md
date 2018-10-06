@@ -20,7 +20,7 @@ Je vois que tu vas venir et que tu vas repartir avec :
 - Une façon d'analyser ton modèle économique
 - Des pistes de financements possibles
 - Des idées de comment générer du chiffre d'affaires selon ton activité
-- des rencontres sympas pour obtenir des retours et démarrer un réseau
+- Des rencontres sympas pour obtenir des retours et démarrer un réseau
 
 ## C'est quoi, une "Journée de cogitation" ?
 Sur une journée, en explorant des lieux insolites dans Montpellier, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.
