@@ -1,4 +1,4 @@
-# Le 08/11 à Paris : Comprendre les aides publiques pour les projets "verts"
+# Le 08/11 à Paris : Comprendre (pour l'améliorer) le financement public des projets environnementaux
 
 On se retrouve le jeudi 8 octobre, de 9h30 à 18h à Paris, on démarre au marché d'Aligre.
 
