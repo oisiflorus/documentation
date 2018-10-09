@@ -47,7 +47,6 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 
 ## J'en suis ! Comment je m'inscris ?
 
-Contacte n'importe lequel ou laquelle d'entre nous [à partir de cette page](../../a-propos-de-nous/nous-contacter.html).
-Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.
+L'inscription se passe [par ici](../inscription.html).
 
-**Pour plus d'informations : [voir la FAQ](../FAQ-journee-cogitation.md)**
+A très vite :)

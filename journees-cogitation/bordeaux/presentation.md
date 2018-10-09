@@ -39,4 +39,6 @@ On propose 30€ par personne, le prix est libre et dialogué. [RDV sur cette pa
 Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va trouver une solution !
 
 ## J'en suis ! Comment je m'inscris ?
-Contacte n'importe lequel ou laquelle d'entre nous [à partir de cette page](../../a-propos-de-nous/nous-contacter.html).
+L'inscription se passe [par ici](../inscription.html).
+
+A très vite :)
