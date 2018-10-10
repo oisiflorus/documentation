@@ -40,7 +40,7 @@ Nous sommes un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine 
 
 ## C'est payant ?
 
-On propose 30€ par personne, le prix est libre et dialogué. [RDV sur cette page](../prix-libre-et-dialogue.html) pour comprendre les coûts et décider de ta participation.
+On propose 30€ une PàF qui est [libre et dialoguée](../prix-libre-et-dialogue.html).
 
 **Et si c’est trop cher pour moi ?**
 Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va trouver une solution !

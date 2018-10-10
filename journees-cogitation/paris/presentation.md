@@ -33,7 +33,7 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire.
 Nous sommes un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine de l'environnement. À nous tou.te.s, nous avons l'expérience de la création de différents types d'entreprises, startups, scop et associations, du travail collaboratif et de l'implication dans des projets environnementaux variés.
 
 ## C'est payant ?
-On propose 30€ par personne, le prix est libre et dialogué. [RDV sur cette page](../prix-libre-et-dialogue.html) pour comprendre les coûts et décider de ta participation.
+On propose une PàF qui est [libre et dialoguée](../prix-libre-et-dialogue.html).
 
 **Et si c’est trop cher pour moi ?** 
 Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va trouver une solution !
