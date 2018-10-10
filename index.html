@@ -45,11 +45,27 @@
         padding-left: 0;
     }
     /* end reset */
+
+    @media (max-width: 768px) {
+        body {font-size: 12px}
+        header,
+        section,
+        footer {
+            padding: 0 1em;
+        }
+    }
+    @media (min-width: 768px) {
+        body {font-size: 20px}
+        header,
+        section,
+        footer {
+            padding: 0 8em;
+        }
+    }
     
     body {
         color: #002920;
         background: #fcf9ff;
-        font-size: 20px;
     }
     
     h1,
@@ -58,11 +74,6 @@
     h4,
     h5 {
         font-weight: 300;
-    }
-    
-    header,
-    section {
-        padding: 0 8em;
     }
     
     /* HEADER */
@@ -167,7 +178,6 @@
         background: #ddd;
         height: 5em;
         line-height: 5em;
-        padding: 0 8em;
         margin-top: 2em;
     }
 </style>
