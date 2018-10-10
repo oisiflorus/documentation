@@ -5,7 +5,7 @@ Quelle bonne idée ;)
 Pour t'inscrire tu peux nous envoyer un mail :
 ## [coucou@oisiflorus.com](mailto:coucou@oisiflorus.com)
 
-Si c'est mieux pour toi, tu peux [discuter avec Sabine ici](https://www.facebook.com/sabine.safi) (pas l'ajouter en ami, on se connaît pas encore assez pour ça ;) ).
+Si c'est mieux pour toi, tu peux [discuter avec Sabine sur facebook™](https://www.facebook.com/sabine.safi) (pas l'ajouter en ami, on se connaît pas encore assez pour ça ;) ).
 
 Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes attentes, des nôtres et répondre à tes questions éventuelles.
 
