@@ -38,9 +38,6 @@ Nous sommes un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine 
 ## C'est payant ?
 On propose une PàF qui est [libre et dialoguée](../prix-libre-et-dialogue.html).
 
-**Et si c’est trop cher pour moi ?** 
-Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va trouver une solution !
-
 ## J'en suis ! Comment je m'inscris ?
 L'inscription se passe [par ici](../inscription.html).
 
