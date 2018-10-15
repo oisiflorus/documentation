@@ -1,6 +1,6 @@
 # Le 2/11 à Nantes : Comment démarrer mon projet environnemental ?
 
-On se retrouve le vendredi 2 novembre **ou bien le samedi 3 novembre**, de 9h30 à 18h dans au [Lieu Unique](http://www.lelieuunique.com/). Pourquoi 2 dates ? Parce qu'on est flexibles et qu'on s'adaptera à la date qui arrange le plus grand nombre.
+On se retrouve 2 demi-journées : le vendredi 2 novembre et samedi 3 novembre, de 9h30 à 13h au [Lieu Unique](http://www.lelieuunique.com/). 
 
 Nous allons cogiter avec des personnes qui ont un projet ou entreprise environnementale, pour la (re)lancer rapidement, tester les hypothèses initiales et éclaircir les étapes suivantes.
 
@@ -24,7 +24,7 @@ On définira ensemble le programme exact de la journée en arrivant. Par exemple
 
 ## C'est quoi, une "Journée de cogitation" ?
 
-Sur une journée, en explorant des lieux insolites dans Nantes, on va réfléchir/apprendre ensemble comment démarrer ton projet sur de bonnes bases.
+Sur une journée, en explorant des lieux insolites dans Nantes, on va réfléchir/apprendre ensemble comment (re)démarrer ton projet sur de bonnes bases.
 
 On commence la journée en définissant ensemble le programme, selon les attentes de chacun.e.
 Dans chaque nouveau lieu on fera un nouvel atelier.
@@ -36,7 +36,7 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire.
 Nous sommes un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine de l'environnement. À nous tou.te.s, nous avons l'expérience de la création de différents types d'entreprises, startups, scop et associations, du travail collaboratif et de l'implication dans des projets environnementaux variés.
 
 ## C'est payant ?
-On propose une PàF qui est [libre et dialoguée](../prix-libre-et-dialogue.html).
+On propose une participation aux frais qui est libre et dialoguée - [voir cette page pour comprendre les coûts associés](../prix-libre-et-dialogue.html).
 
 ## J'en suis ! Comment je m'inscris ?
 L'inscription se passe [par ici](../inscription.html).
