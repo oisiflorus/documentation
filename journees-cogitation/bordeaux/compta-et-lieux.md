@@ -14,7 +14,8 @@
 => 196,7 => 200€
 
 ### Participation :
-- 6 participant.e.s : 30€
+- 1 participant.e : 10€
+- 5 participant.e.s : 30€
 - 1 particiant.e : 80€
 
 => Total : 240€
