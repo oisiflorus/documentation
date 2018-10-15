@@ -11,16 +11,17 @@ Nous faisons donc le choix d'être transparent.e.s sur les coûts et les bénéf
 
 ## En gros, ça coûte combien une journée de cogitation ?
 
-Tablons sur 7 participant.e.s donc 2 organisateur.rice.s et 5 étapes. Les montants ci-dessous sont donnés à titre d'exemple, évidemment chaque journée est un peu différente.
+Tablons sur 7 participant.e.s donc 2 organisateur.rice.s et 6 étapes. Les montants ci-dessous sont donnés à titre d'exemple, évidemment chaque journée est un peu différente.
 
 ### Coûts directs de la journée
 - Etape 1 : petit-déj, 6€ /pers --> 42€
 - Etape 2 : 1 boisson, 3€ /pers --> 21€
 - Etape 3 : déjeuner, 15€ /pers --> 105€
 - Etape 4 : une boisson, 3€ /pers --> 21€
+- Etape 4 : une boisson, 3€ /pers --> 21€
 - Etape 5 : goûter, 6€ /pers --> 42€
 
-Total : 232€ soit 31€ /pers
+Total : 253€ soit 34€ /pers
 
 ### Coûts d'organisation
 
