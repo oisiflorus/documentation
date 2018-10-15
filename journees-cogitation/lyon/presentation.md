@@ -2,23 +2,21 @@
 
 On se retrouve le samedi 27 octobre, de 9h30 à 18h à Lyon au [Court Circuit](https://www.le-court-circuit.fr/).
 
-Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" sur les problématiques liées à l'eau.
+Nous allons cogiter avec des entrepreneur.e.s "vert.e.s"t des citoyen.ne.s engagé.e.s sur les problématiques liées à l'eau.
 
 _Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif"._
-_D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md). On est flexibles, le programme peut changer : [contacte-nous](../../a-propos-de-nous/nous-contacter.html) ;)_
+_D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md).
 
 ## C'est pour qui ?
 
 - Pour les entrepreneur.e.s qui ont lancé une activité autour de l'eau et qui souhaiteraient échanger sur leurs problématiques.
 - Pour les citoyen·ne·s qui s'interrogent sur les actions à entreprendre pour améliorer leur relation hydrique ;)
 - Pour les personnes qui souhaitent rencontrer un acteur majeur qui œuvre depuis plusieurs années pour que l'eau reste un _commun_. 
-- Pour les individu·e·s qui veulent s'investir sur des projets liés à la préservation de l'eau.
+- Pour les individus qui veulent s'investir sur des projets liés à la préservation de l'eau.
 
 ## Qu'est-ce que je vais retirer de cette journée ?
 
-Ce n'est pas une formation avec un programme défini, mais on peut s'essayer à faire un peu de voyance ;)
-
-Je vois que tu vas venir et que tu vas repartir avec :
+Ce n'est pas une formation avec un programme défini, mais tu pourrais repartir avec :
 
 - Des pratiques concrètes pour améliorer ta relation avec l'eau
 - Découvrir les projets et les act·eur·rice·s qui travaillent sur les problèmatiques environnementales
@@ -27,10 +25,8 @@ Je vois que tu vas venir et que tu vas repartir avec :
 
 ## C'est quoi, une "Journée de cogitation" ?
 
-Sur une journée, en explorant des lieux insolites dans Lyon, on va réfléchir/apprendre ensemble comment rendre ton projet plus solide financièrement.
-On commence la journée en définissant ensemble le programme, selon les attentes de chacun.e.
-Dans chaque nouveau lieu on fera un nouvel atelier.
-On profite des trajets pour débriefer sur ce qu'on vient de faire.
+Sur une journée, en explorant des lieux insolites dans Lyon, on va réfléchir/apprendre ensemble comment on peut réduire notre impact sur la ressource en eau.
+On commence la journée en définissant ensemble le programme, selon les attentes de chacun.e. Dans chaque nouveau lieu on fera un nouvel atelier. On profite des trajets pour débriefer sur ce qu'on vient de faire.
 
 **Pour plus d'informations : [voir la FAQ](../FAQ-journee-cogitation.md)**
 
@@ -40,7 +36,7 @@ Nous sommes un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine 
 
 ## C'est payant ?
 
-On propose 30€ une PàF qui est [libre et dialoguée](../prix-libre-et-dialogue.html).
+On propose une participation aux frais qui est libre et dialoguée - [RDV sur cette page pour comprendre les coûts de la journée](../prix-libre-et-dialogue.html).
 
 ## J'en suis ! Comment je m'inscris ?
 
