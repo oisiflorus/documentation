@@ -11,26 +11,21 @@
 - Repas : 70
 - Thé sur la place (fin) : 22
 
-=> 196,7 => 200
+=> 196,7 => 200€
 
 ### Participation :
-- Christophe : 30
-- David : 30
-- Sabine : 30
-- Stéphane : 30
-- Anne-lise : 10
-- Amandine : 30
-- Liane : 80
+- 6 participant.e.s : 30€
+- 1 particiant.e : 80€
 
-=> 240
+=> Total : 240€
 
 ## Lieux
 
 - 09h30 - 10h00 - Café Laiton  
-- 10h00 - 11h00 - Petit grain
-- 11h00 - 12h30 - Halles des Douves
-- 12h30 - 13H20 - Chaï bar 
+- 10h15 - 11h00 - Petit grain
+- 11h15 - 12h30 - Halles des Douves
+- 12h50 - 13H20 - Chaï bar 
 - 14h30 - 15h30 - Take Off
-- 15h30 - 16h30 - Douce Parenthèse
-- 17h00 - 18h00 - Place du Parlement
+- 16h20 - 17h45 - Douce Parenthèse
+- 18h00 - 18h30 - Place du Parlement
 
