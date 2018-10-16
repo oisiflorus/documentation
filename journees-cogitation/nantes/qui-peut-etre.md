@@ -1,6 +1,6 @@
-Veronic D. - très intéressée mais pas à Nantes à cette date
-Coline B. - en voie d'inscription, en attendant qu'on fasse le call
-Sylvain M. - en voie d'inscription, en attendant qu'on fasse le call
-Amandine F. - très intéressée mais pas à Nantes à cette date
-Gaëlle T. - très intéressée, pas sûre d'être à Nantes à cette date
-Pierre-Marie B. et Charlotte - intéressé.e.s mais projet social plutôt qu'environnemental
+- Veronic D. - très intéressée mais pas à Nantes à cette date
+- Coline B. - en voie d'inscription, en attendant qu'on fasse le call
+- Sylvain M. - en voie d'inscription, en attendant qu'on fasse le call
+- Amandine F. - très intéressée mais pas à Nantes à cette date
+- Gaëlle T. - très intéressée, pas sûre d'être à Nantes à cette date
+- Pierre-Marie B. et Charlotte - intéressé.e.s mais projet social plutôt qu'environnemental
