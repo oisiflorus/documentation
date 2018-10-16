@@ -2,10 +2,10 @@
 
 On se retrouve le samedi 27 octobre, de 9h30 à 18h à Lyon au [Court Circuit](https://www.le-court-circuit.fr/).
 
-Nous allons cogiter avec des entrepreneur.e.s "vert.e.s"t des citoyen.ne.s engagé.e.s sur les problématiques liées à l'eau.
+Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" et des citoyen.ne.s engagé.e.s sur les problématiques liées à l'eau.
 
 _Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif"._
-_D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md).
+_D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md)._
 
 ## C'est pour qui ?
 
