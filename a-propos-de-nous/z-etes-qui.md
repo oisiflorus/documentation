@@ -1,11 +1,12 @@
 # Z'êtes qui, Oisiflorus ?
 
 Au 4 octobre 2018, nous sommes :
-- Stéphane Langlois,
-- Alicia Lambert,
-- David Bruant,
+- Alicia Lambert
+- David Bruant
+- Stéphane Langlois
 - Idrissa M'Boup
 - Sabine Safi
+- Yannick Belat
 
 Et nous prendrons le temps de mieux remplir cette page prochainement ;)
 
