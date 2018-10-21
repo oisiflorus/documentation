@@ -1,4 +1,4 @@
-# Les intéressés
+# Les intéressé.e.s
 
 - Veronic D. - très intéressée mais pas à Nantes à cette date (sondage dates envoyé)
 - Coline B. - en voie d'inscription, en attendant qu'on fasse le call
@@ -8,7 +8,7 @@
 - Pierre-Marie B. et Charlotte - intéressé.e.s mais projet social plutôt qu'environnemental
 - Cécile M. - en voie d'inscription, en attendant qu'on fasse le call
 
-Envisagé également : Sandra T., Matti S., Christophe R.
+Possible également : Sandra T., Matti S., Christophe R.
 
 #### Sondage Dates
 
