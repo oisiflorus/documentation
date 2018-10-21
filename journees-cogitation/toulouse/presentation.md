@@ -1,6 +1,6 @@
-# Le 9/11 à Toulouse : Comment démarrer mon projet environnemental ?
+# Les 9 et 10/11 à Toulouse : Comment démarrer mon projet environnemental ?
 
-On se retrouve le vendredi 9 novembre **ou bien le samedi 10 novembre**, de 9h30 à 18h dans le centre de Toulouse. Pourquoi 2 dates ? Parce qu'on est flexibles et qu'on s'adaptera à la date qui arrange le plus grand nombre.
+On se retrouve deux matinées : le vendredi 9 et samedi 10 novembre, de 9h30 à 13h dans le centre de Toulouse. 
 
 Nous allons cogiter avec des personnes qui ont un projet ou entreprise environnementale, pour la (re)lancer rapidement, tester les hypothèses initiales et éclaircir les étapes suivantes.
 
