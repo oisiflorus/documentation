@@ -1,6 +1,6 @@
-# Le 08/11 à Paris : Comprendre (pour l'améliorer) le financement public des projets environnementaux
+# Le 22/11 à Paris : Comprendre (pour l'améliorer) le financement public des projets environnementaux
 
-On se retrouve le jeudi 8 octobre, de 9h30 à 18h à Paris, on démarre au marché d'Aligre.
+On se retrouve le jeudi 22 novembre, de 9h30 à 18h à Paris, on démarre au marché d'Aligre.
 
 Nous allons cogiter avec des personnes impliquées dans le financement des projets environnementaux et des entrepreneur.e.s "vert.e.s" pour mieux comprendre comment la puissance publique peut faciliter l'émergence d'initiatives liées aux problématiques environnementales.
 
