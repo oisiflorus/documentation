@@ -1,11 +1,10 @@
-# Le 22/11 à Paris : Comprendre (pour l'améliorer) le financement public des projets environnementaux
+# Les 14 et 15/12 à Paris : Comprendre (pour l'améliorer) le financement public des projets environnementaux
 
-On se retrouve le jeudi 22 novembre, de 9h30 à 18h à Paris, on démarre au marché d'Aligre.
+On se retrouve deux matinées : le vendredi 14 et le samedi 15 décembre, de 9h30 à 13h à Paris, on démarre au marché d'Aligre. *On envisage de tout faire sur la journée du 14 (ça ferait une grrrrosse journée), [dis nous](../../a-propos-de-nous/nous-contacter.html) si tu préfères cette option*
 
 Nous allons cogiter avec des personnes impliquées dans le financement des projets environnementaux et des entrepreneur.e.s "vert.e.s" pour mieux comprendre comment la puissance publique peut faciliter l'émergence d'initiatives liées aux problématiques environnementales.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
-*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md).*
 
 ## C'est pour qui ?
 - Pour les **agents de la fonction publique impliqués dans le financement** des projets environnementaux, qui souhaitent échanger sur leurs pratiques, leurs problématiques et cogiter avec d'autres parties prenantes dans un cadre dépollué,
@@ -14,7 +13,7 @@ Nous allons cogiter avec des personnes impliquées dans le financement des proje
 
 ## Qu'est-ce que je vais retirer de cette journée ?
 
-On définira ensemble le programme exact de la journée en arrivant. Par exemple, tu pourrais repartir avec :
+On définira ensemble le programme exact de chaque matinée en arrivant. Par exemple, tu pourrais repartir avec :
 
 - Une vision globale du paysage des aides financières dans le domaine de l'environnement
 - Des cogitations sur les difficultés des financeurs publics, avec des personnes aux profils et expériences variées
@@ -23,7 +22,7 @@ On définira ensemble le programme exact de la journée en arrivant. Par exemple
 
 ## C'est quoi, une "Journée de cogitation" ?
 Sur une journée, en explorant des lieux insolites dans Paris, on va réfléchir à et découvrir ensemble comment fonctionne le financement public des projets "verts" et comment le rendre plus satisfaisant pour toutes les parties prenantes.
-On commence la journée en définissant ensemble le programme, selon les attentes de chacun.e.
+On commence chaque matinée en définissant ensemble le programme, selon les attentes de chacun.e.
 Dans chaque nouveau lieu on fera un nouvel atelier.
 On profite des trajets pour débriefer sur ce qu'on vient de faire.
 
