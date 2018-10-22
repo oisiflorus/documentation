@@ -8,6 +8,7 @@
 - Pierre-Marie B. et Charlotte - intéressé.e.s mais projet social plutôt qu'environnemental, on doit s'appeler
 - Cécile M. - en voie d'inscription, en attendant qu'on fasse le call
 - Eric B. - intéressé à titre perso, on doit s'appeler (sondage dates envoyé)
+- Emilie G. - en voie d'inscription selon dates, on doit s'appeler (sondage dates envoyé)
 
 Possible également : Sandra T., Matti S., Christophe R.
 
