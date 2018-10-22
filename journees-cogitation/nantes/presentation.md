@@ -1,6 +1,6 @@
-# Les 2 et 3/11 à Nantes : Comment démarrer mon projet environnemental ?
+# Les 9 et 10/11 à Nantes : Comment démarrer mon projet environnemental ?
 
-On se retrouve 2 demi-journées : le vendredi 2 novembre et samedi 3 novembre, de 9h30 à 13h au [Lieu Unique](http://www.lelieuunique.com/). 
+On se retrouve 2 demi-journées : le vendredi 9 novembre et samedi 10 novembre, de 9h30 à 13h, au départ du [Lieu Unique](http://www.lelieuunique.com/). 
 
 Nous allons cogiter avec des personnes qui ont un projet ou entreprise environnementale, pour la (re)lancer rapidement, tester les hypothèses initiales et éclaircir les étapes suivantes.
 
