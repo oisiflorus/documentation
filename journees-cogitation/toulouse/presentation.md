@@ -1,11 +1,10 @@
-# Les 9 et 10/11 à Toulouse : Comment démarrer mon projet environnemental ?
+# Les 7 et 8/12 à Toulouse : Comment démarrer mon projet environnemental ?
 
-On se retrouve deux matinées : le vendredi 9 et samedi 10 novembre, de 9h30 à 13h dans le centre de Toulouse. 
+On se retrouve deux matinées : le vendredi 7 et samedi 8 novembre, de 9h30 à 13h dans le centre de Toulouse. 
 
 Nous allons cogiter avec des personnes qui ont un projet ou entreprise environnementale, pour la (re)lancer rapidement, tester les hypothèses initiales et éclaircir les étapes suivantes.
 
 *Par souci de lisibilité, ici "vert.e" s'entend par "à impact environnemental positif".*
-*D'autres dates et d'autres thèmes suivent à travers la France : [par ici](../journees-de-cogitation.md).*
 
 ## C'est pour qui ?
 - Les personnes qui ont un projet "vert" et qui aimeraient baliser et valider les prochaines étapes.
@@ -13,7 +12,7 @@ Nous allons cogiter avec des personnes qui ont un projet ou entreprise environne
 - Les personnes en activité qui veulent lancer un nouveau projet "vert" dans le cadre de cette activité.
 
 ## Qu'est-ce que je vais retirer de cette journée ?
-On définira ensemble le programme exact de la journée en arrivant. Par exemple, tu pourrais repartir avec :
+On définira ensemble le programme exact de chaque matinée en arrivant. Par exemple, tu pourrais repartir avec :
 
 - La méthode Running Lean (lancer son projet et trouver rapidement un plan qui marche), expliquée et appliquée à ton cas.
 - Comment définir ton offre à partir des besoins de tes clients.
@@ -24,9 +23,9 @@ On définira ensemble le programme exact de la journée en arrivant. Par exemple
 
 ## C'est quoi, une "Journée de cogitation" ?
 
-Sur une journée, en explorant des lieux insolites dans Toulouse, on va réfléchir/apprendre ensemble comment démarrer ton projet sur de bonnes bases.
+Sur deux matinées, en explorant des lieux insolites dans Toulouse, on va réfléchir/apprendre ensemble comment démarrer ton projet sur de bonnes bases.
 
-On commence la journée en définissant ensemble le programme, selon les attentes de chacun.e.
+On commence chaque journée en définissant ensemble le programme, selon les attentes de chacun.e.
 Dans chaque nouveau lieu on fera un nouvel atelier.
 On profite des trajets pour débriefer sur ce qu'on vient de faire.
 
