@@ -1,6 +1,6 @@
 # Les 7 et 8/12 à Toulouse : Comment démarrer mon projet environnemental ?
 
-On se retrouve deux matinées : le vendredi 7 et samedi 8 novembre, de 9h30 à 13h dans le centre de Toulouse. 
+On se retrouve deux matinées : le vendredi 7 et samedi 8 décembre, de 9h30 à 13h dans le centre de Toulouse. 
 
 Nous allons cogiter avec des personnes qui ont un projet ou entreprise environnementale, pour la (re)lancer rapidement, tester les hypothèses initiales et éclaircir les étapes suivantes.
 
