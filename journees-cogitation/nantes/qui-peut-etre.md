@@ -8,12 +8,13 @@
 | Amandine  | - | envoyé | FB |
 | Gaëlle    | - | ok | FB |
 | Pierre-M  | ok | ok | FB |
-| Charlotte | pas de contact direct | - | - |
+| Charlotte | - | - | pas contact direct |
 | Cécile    | ok | envoyé | Mail |
 | Eric B.   | - | pas samedi | FB |
 | Emilie    | - | pas samedi | Mail |
 | Yohann R. | - | ok | Mail |
 | Thibault D| - | envoyé | Mail |
+| Ami Thib  |- | OK | pas contact direct |
 | Xavier C. | - | ? | Mail |
 
 Pierre-Marie aura besoin d'un reçu.
