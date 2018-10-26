@@ -29,6 +29,6 @@ Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes 
 * Stéphane Langlois - [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
 * Sabine Safi - [@SabineSafi](https://twitter.com/SabineSafi)
 * Liane Langenbach
-* Amandine Defrance - Mon Alter Eco / [EspritZD]([www.espritzerodechet.fr](http://www.espritzerodechet.fr/))
+* Amandine Defrance - Mon Alter Eco / [EspritZD](http://www.espritzerodechet.fr/)
 * Christophe Robillard - [@krichtof](https://twitter.com/krichtof) 
 * Anne-Lise - 
