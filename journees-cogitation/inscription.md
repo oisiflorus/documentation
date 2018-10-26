@@ -18,16 +18,28 @@ Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes 
 * Yohann Reverdy
 * Thibault Dugast
 * Idrissa M'Boup
-* Stéphane Langlois, stephane.langlois arobase scopyleft.fr
+* Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
 * Sabine Safi, [@SabineSafi](https://twitter.com/sabineSafi)
 
 ### [Le 16 et 17 novembre à Montpellier - Comment rendre viable mon projet “vert” ?](http://www.oisiflorus.com/journees-cogitation/montpellier/presentation.html)
+* Alicia Lambert
+* Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
+* Sabine Safi, [@SabineSafi](https://twitter.com/sabineSafi)
 
 ### [Le 28 et 29 novembre à Lyon - Réduire notre impact sur l’eau](http://www.oisiflorus.com/journees-cogitation/lyon/presentation.html)
+* Christophe Robillard - [@krichtof](https://twitter.com/krichtof) 
+* Virgile Paultre
+* Yannick Belat
+* Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
 
 ### [Le 7 et 8 décembre à Toulouse - Comment démarrer mon projet “vert” ?](http://www.oisiflorus.com/journees-cogitation/toulouse/presentation.html)
+* Alicia Lambert
+* Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
+* Sabine Safi, [@SabineSafi](https://twitter.com/sabineSafi)
 
 ### [Le 14 et 15 décembre à Paris - Comprendre (pour l'améliorer) le financement public des projets “verts”](http://www.oisiflorus.com/journees-cogitation/paris/presentation.html)
+* Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
+* Sabine Safi, [@SabineSafi](https://twitter.com/sabineSafi)
 
 ## Villes déjà visitées
 
