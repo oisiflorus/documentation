@@ -12,7 +12,7 @@
 | Cécile    | ok | envoyé | Mail |
 | Eric B.   | - | pas samedi | FB |
 | Emilie    | - | pas samedi | Mail |
-| Yohann R. | - | ok | Mail |
+| Yohann R. | ok | ok | Mail |
 | Thibault D| - | ok | Mail |
 | Ami Thib  |- | ok | pas contact direct |
 | Xavier C. | - | ? | Mail |
