@@ -4,7 +4,7 @@
 |-----------|-----------|---------------|---------------|
 | Veronic   | ok | ok | Facebook |
 | Coline    | - | envoyé | Mail |
-| Sylvain   | ok | envoyé | Mail/FB |
+| Sylvain   | ok | non | Mail/FB |
 | Amandine  | - | envoyé | FB |
 | Gaëlle    | - | ok | FB |
 | Pierre-M  | ok | ok | FB |
