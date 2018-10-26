@@ -12,6 +12,14 @@ Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes 
 ## Elles et ils sont déjà inscrits
 
 ### [Le 9 et 10 novembre à Nantes - Comment démarrer mon projet “vert” ?](http://www.oisiflorus.com/journees-cogitation/nantes/presentation.html)
+* Veronic Durand, [wearepirouette.fr](https://wearepirouette.fr/)
+* Gaëlle Tavernier
+* Pierre-Marie Bozec
+* Yohann Reverdy
+* Thibault Dugast
+* Idrissa M'Boup
+* Stéphane Langlois, stephane.langlois arobase scopyleft.fr
+* Sabine Safi, [@SabineSafi](https://twitter.com/sabineSafi)
 
 ### [Le 16 et 17 novembre à Montpellier - Comment rendre viable mon projet “vert” ?](http://www.oisiflorus.com/journees-cogitation/montpellier/presentation.html)
 
