@@ -2,10 +2,10 @@
 
 
 ## Café Laiton - 9h30
-Place du marché : les participant.e.s arrivent et notent les sujets/thèmes qui les intéressent à aborder dans la journée. A ce stade, on ne s'est toujours pas présenté.e.s, et si le sujet ne ressort pas parmi les sujets proposés et retenus, et bien il n'y aura pas de session formelle là-dessus !
+Place du marché : les participant.e.s arrivent et notent les sujets/thèmes qui les intéressent à aborder dans la journée. A ce stade, on ne s'est toujours pas présenté.e.s, et si le sujet ne ressort pas parmi les sujets proposés et retenus, et bien il n'y aura pas de présentations "en bonne et due forme" !
 
 ## Le Petit grain - 10h15
-Présentation des participant.e.s et organisateur.rice.s, y compris explication du code de conduite.
+Présentation des participant.e.s et organisateur.rice.s, y compris explication du *Code of conduct*.
 
 ## Café des Douves - 11h15
 Débat sur le business plan : utile, pas utile, peut-on s'en passer complètement (pas sûr, pas toujours), quelles alternatives ?
