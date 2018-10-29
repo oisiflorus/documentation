@@ -9,11 +9,11 @@
 | Gaëlle    | ok | ok | FB/mail |
 | Pierre-M  | ok | ok | FB |
 | Charlotte | - | - | pas contact direct |
-| Cécile    | ok | envoyé | Mail |
+| Cécile (Ecos)    | ok | ok | Mail |
 | Eric B.   | - | pas samedi | FB |
 | Emilie    | - | pas samedi | Mail |
 | Yohann R. | ok | ok | Mail |
-| Thibault D| - | ok | Mail |
+| Thibault D| ok | ok | Mail |
 | Ami Thib  |- | ok | pas contact direct |
 | Xavier C. | - | ? | Mail |
 
