@@ -3,7 +3,7 @@
 | Qui       | Accordage | Dates finales | Canal de comm |
 |-----------|-----------|---------------|---------------|
 | Veronic   | ok | ok | Facebook |
-| Coline    | - | envoyé | Mail |
+| Coline    | - | pas vendredi | Mail |
 | Sylvain   | ok | non | Mail/FB |
 | Amandine  | - | envoyé | FB |
 | Gaëlle    | ok | ok | FB/mail |
