@@ -16,12 +16,14 @@ Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes 
 * Gaëlle Tavernier
 * Pierre-Marie Bozec
 * Yohann Reverdy
-* Idrissa M'Boup
 * Thibault Dugast
-* Stéphane Langlois, [e-msail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
+* Cécile Mercat
+* Idrissa M'Boup
+* Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
 * Sabine Safi, [@SabineSafi](https://twitter.com/sabineSafi)
 
 ### [Le 16 et 17 novembre à Montpellier - Comment rendre viable mon projet “vert” ?](http://www.oisiflorus.com/journees-cogitation/montpellier/presentation.html)
+* Sandra Tchang
 * Alicia Lambert
 * Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
 * Sabine Safi, [@SabineSafi](https://twitter.com/sabineSafi)
