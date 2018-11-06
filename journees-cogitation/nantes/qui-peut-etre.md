@@ -5,7 +5,7 @@
 | Veronic   | ok | ok | Facebook |
 | Coline    | - | pas vendredi | Mail |
 | Sylvain   | ok | non | Mail/FB |
-| Amandine  | - | envoyé | FB |
+| Amandine  | - | pas samedi | FB |
 | Gaëlle    | ok | ok | FB/mail |
 | Pierre-M  | ok | ok | FB |
 | Charlotte | - | - | pas contact direct |
