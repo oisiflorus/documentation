@@ -19,8 +19,10 @@
 ## Samedi 10 novembre 2018
 
 ### Café la Branche - 9h30
+- Comment trouver un•e partenaire/un•e associé•e 
 
 ### La Conciergerie - 10h45
+- Running lean
 
 ### Déjeuner à la Guinguette - 13h
 
