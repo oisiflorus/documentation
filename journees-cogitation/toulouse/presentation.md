@@ -1,6 +1,6 @@
-# Les 7 et 8/12 à Toulouse : Comment démarrer mon projet environnemental ?
+# Les 6 et 7/12 à Toulouse : aider et se faire aider à démarrer son projet "vert"
 
-On se retrouve deux matinées : le vendredi 7 et samedi 8 décembre, de 9h30 à 13h dans le centre de Toulouse. 
+On se retrouve deux matinées : le jeudi 6 et vendredi 7 décembre, de 9h30 à 13h dans le centre de Toulouse. 
 
 Nous allons cogiter avec des personnes qui ont un projet ou entreprise environnementale, pour la (re)lancer rapidement, tester les hypothèses initiales et éclaircir les étapes suivantes.
 
@@ -10,6 +10,7 @@ Nous allons cogiter avec des personnes qui ont un projet ou entreprise environne
 - Les personnes qui ont un projet "vert" et qui aimeraient baliser et valider les prochaines étapes.
 - Les entrepreneur.e.s qui ont lancé leur activité "verte" et ne sont pas satisfait.e.s d'où ils & elles en sont (définir son offre, trouver des clients...),
 - Les personnes en activité qui veulent lancer un nouveau projet "vert" dans le cadre de cette activité.
+- Les personnes qui veulent filer un coup de main à d'autres personnes ayant un projet "vert"
 
 ## Qu'est-ce que je vais retirer de cette journée ?
 On définira ensemble le programme exact de chaque matinée en arrivant. Par exemple, tu pourrais repartir avec :
@@ -32,7 +33,7 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire.
 **Pour plus d'informations : [voir la FAQ](../FAQ-journee-cogitation.md)**
 
 ## Qui organise ?
-Nous sommes un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine de l'environnement. À nous tou.te.s, nous avons l'expérience de la création de différents types d'entreprises, startups, scop et associations, du travail collaboratif et de l'implication dans des projets environnementaux variés.
+[Nous sommes](/a-propos-de-nous/z-etes-qui.html) un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine de l'environnement. À nous tou.te.s, nous avons l'expérience de la création de différents types d'entreprises, startups, scop et associations, du travail collaboratif et de l'implication dans des projets environnementaux variés.
 
 ## C'est payant ?
 On propose une PàF qui est [libre et dialoguée](../prix-libre-et-dialogue.html).
