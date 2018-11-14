@@ -1,6 +1,8 @@
 # Code of Conduct : des consignes pour créer un cadre de collaboration inclusif et bientraitant
 
-Chez Oisiflorus, nous accordons **beaucoup d'importance** à ce que toute personne qui nous rejoint ou avec qui on interagit se sente *safe*(1).
+Chez Oisiflorus, nous accordons **beaucoup d'importance** à ce que toute personne qui nous rejoint ou avec qui on interagit se sente *safe*.
+
+Par *safe*, nous désignons un climat ou un état de confiance, de tranquillité et d’harmonie dans lequel chacun·e se sent pris en compte, en sécurité affective et émotionnelle. C’est un contexte dans lequel personne n’a besoin d’être sur ses gardes et qui libère des angoisses liées au regard de l’autre, à son jugement, à sa capacité à se moquer de soi ou de ses erreurs et à exiger des justifications.*
 
 Nous nous sommes aperçus que même les personnes ouvertes d'esprit et attentives peuvent "déraper" parfois, et involontairement générer un malaise. Alors nous avons décidé d'expliciter le cadre que nous voulons créer, quitte à répéter l'évident (voir *Pourquoi* plus bas).
 
@@ -33,4 +35,3 @@ En adoptant ces consignes, nous cherchons à établir un lien de confiance et de
 
 
 
-*(1) Par *safe*, nous désignons un climat ou un état de confiance, de tranquillité et d’harmonie dans lequel chacun·e se sent pris en compte, en sécurité affective et émotionnelle. C’est un contexte dans lequel personne n’a besoin d’être sur ses gardes et qui libère des angoisses liées au regard de l’autre, à son jugement, à sa capacité à se moquer de soi ou de ses erreurs et à exiger des justifications.*
