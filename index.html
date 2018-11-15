@@ -11,235 +11,232 @@
     
     <link crossorigin=anonymous rel=stylesheet href="https://rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap-reboot.css"> 
     <script defer crossorigin=anonymous src="https://cdn.polyfill.io/v2/polyfill.min.js?features=all"></script>
-</head>
 
-
-<style>
-    /* Reset just the minimum, improve with time */
-    body {
-        margin: 0;
-    }
-
-    /*Titles*/
-    h1,
-    h2,
-    h3,
-    h4,
-    h5 {
-        margin-top: 0;
-        margin-bottom: 0;
-    }
-    
-    /*Forms*/
-    fieldset {
-        padding: 0;
-        margin-right: 0;
-        margin-left: 0;
-        border: none;
-    }
-    
-    /*Lists*/
-    ul {
-        margin-top: 0;
-        margin-bottom: 0;
-        padding-left: 0;
-    }
-    /* end reset */
-
-    @media (max-width: 768px) {
-        body {font-size: 12px}
-        header,
-        section,
-        footer {
-            padding: 0 1em;
+    <style>
+        /* Reset just the minimum, improve with time */
+        body {
+            margin: 0;
         }
-    }
-    @media (min-width: 768px) {
-        body {font-size: 20px}
-        header,
-        section,
-        footer {
-            padding: 0 8em;
+
+        /*Titles*/
+        h1,
+        h2,
+        h3,
+        h4,
+        h5 {
+            margin-top: 0;
+            margin-bottom: 0;
         }
-    }
-    
-    body {
-        color: #002920;
-        background: #fcf9ff;
-    }
-    
-    h1,
-    h2,
-    h3,
-    h4,
-    h5 {
-        font-weight: 300;
-    }
-    
-    /* HEADER */
-    header {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        min-height: 610px;
-        padding: 0;
-        margin: 0;
-        font-family: "falling-sky_black", sans-serif;
-        color: #002920;
-        text-align: center;
-        background: url(site/img/header.png) center center no-repeat;
-    }
-    
-    header h1,
-    header p {
-        margin: 0;
-    }
-    
-    header h1 {
-        margin: 0;
-        padding: 0;
-        font-size: 3.5em;
-        text-transform: uppercase;
-    }
-    
-    header h1 span {
-        font-size: 83px;
-    }
-    
-    header p {
-        padding:0 0 3rem;
-        font-weight: 500;
-        font-size: 1.1rem;
-    }
+        
+        /*Forms*/
+        fieldset {
+            padding: 0;
+            margin-right: 0;
+            margin-left: 0;
+            border: none;
+        }
+        
+        /*Lists*/
+        ul {
+            margin-top: 0;
+            margin-bottom: 0;
+            padding-left: 0;
+        }
+        /* end reset */
 
-    h2 {
-        font-size: 2em;
-    }
+        @media (max-width: 768px) {
+            body {font-size: 12px}
+            header,
+            section,
+            footer {
+                padding: 0 1em;
+            }
+        }
+        @media (min-width: 768px) {
+            body {font-size: 20px}
+            header,
+            section,
+            footer {
+                padding: 0 8em;
+            }
+        }
+        
+        body {
+            color: #002920;
+            background: #fcf9ff;
+        }
+        
+        h1,
+        h2,
+        h3,
+        h4,
+        h5 {
+            font-weight: 300;
+        }
+        
+        /* HEADER */
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 610px;
+            padding: 0;
+            margin: 0;
+            font-family: "falling-sky_black", sans-serif;
+            color: #002920;
+            text-align: center;
+            background: url(site/img/header.png) center center no-repeat;
+        }
+        
+        header h1,
+        header p {
+            margin: 0;
+        }
+        
+        header h1 {
+            margin: 0;
+            padding: 0;
+            font-size: 3.5em;
+            text-transform: uppercase;
+        }
+        
+        header h1 span {
+            font-size: 83px;
+        }
+        
+        header p {
+            padding:0 0 3rem;
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
 
-    ul {
-        margin: 1.5em; 
-    }
-    
-    a {
-        color: #4d4d4d;
-        padding: 0 .2em;
-        transition: all 0.4s linear;
-        border-bottom: #73d56b solid 1px;
-    }
-    a:hover, a:focus {
-        background: #73d56b;
-        color: #000;
-        text-decoration: none;
-    }
-    
-    section {
-        padding-top: 2em;
-    }
-    
-    .uvp h5 {
-        font-weight: 200;
-        text-align: center;
-        font-size: 2em;
-    }
-    
-    .summary h1 {
-        font-size: 2em;
-        border-bottom: #4d4d4d solid 1px;
-        padding-top: 1em;
-    }
-    
-    .summary h2 {
-        padding-top: 1em;
-    }
-    
-    .summary ul {
-        list-style: none;
-        padding-top: .5em;
-    }
-    
-    .summary li {
-        padding: .2em;
-    }
-    
-    .subscribe {
-        font-size: 1.5em;
-        padding-top: 1.5em;
-        text-align: center;
-    }
-    
-    .subscribe a {
-        background: #002920;
-        color: #fff;
-        padding: .5em;
-        border: 1px solid #002920;
-    }
-    
-    .subscribe a:hover,
-    .subscribe a:focus {
-        background: none;
-        color: #002920;
-    }
-    
-    footer {
-        display: flex;
-        justify-content: space-between;
-        background: #ddd;
-        height: 5em;
-        line-height: 5em;
-        margin-top: 2em;
-    }
-</style>
-<header>
-    <h1><span>o</span>isiflorus</h1>
-</header>
+        h2 {
+            font-size: 2em;
+        }
 
-<section class=uvp>
-    <h5>Nous sommes un collectif d’entrepreneur.e.s et d’acteur.rice.s au service des entreprises et projets environnementaux</h5>
-</section>
-<section class=summary>
-    <h1>Journées de cogitation pour apprendre ensemble</h1>
-        <ul>
-            <p>Des ateliers sur deux demi-journées un peu partout en France</p>
-            <li><a href=journees-cogitation/lyon/presentation.html>Le 29 et 30 novembre à Lyon - Réduire notre impact sur l’eau</a></li>
-            <li><a href=journees-cogitation/toulouse/presentation.html>Le 6 et 7 décembre à Toulouse - Aider et se faire aider à démarrer son projet "vert"</a></li>
-            <li><a href=journees-cogitation/paris/presentation.html>Le 14 et 15 décembre à Paris - Comprendre (pour l'améliorer) le financement public des projets “verts”</a></li>
-            <li><a href=journees-cogitation/montpellier/presentation.html>Date à fixer - Montpellier - Comment rendre viable mon projet “vert” ?</a></li>
-        </ul>
-         <ul>
-            <li><a href=journees-cogitation/journees-de-cogitation.html>Présentation des journées de cogitation</a></li>
-            <li><a href=journees-cogitation/FAQ-journee-cogitation.html>Foire aux Questions</a></li>
-        </ul>
-        <ul>
-            <h2>Évenements passés</h2>
-            <li><a href=journees-cogitation/nantes/presentation.html>Le 9 et 10 novembre à Nantes - Comment démarrer mon projet “vert” ?</a></li>
-            <li><a href=journees-cogitation/bordeaux/compte-rendu.html>11/10 - Bordeaux - Comment rendre viable mon projet “vert” ?</a></li>
-        </ul>
-        <p class=subscribe><a href=journees-cogitation/inscription.html>s'inscrire</a></p>
-        <ul>
-            <h2>Le collectif</h2>
-            <li><a href=a-propos-de-nous/z-etes-qui.html>Qui sommes nous ?</a></li>
-            <li><a href=a-propos-de-nous/nos-valeurs/valeurs.html>Nos valeurs</a></li>
-            <li><a href=a-propos-de-nous/comment-on-se-finance.html>Comment on se finance</a></li>
-            <li><a href=a-propos-de-nous/nous-contacter.html>Nous contacter</a></li>
-            <li><a href=a-propos-de-nous/code-of-conduct.html>"Code of Conduct"</a></li>
-        </ul>
+        ul {
+            margin: 1.5em; 
+        }
+        
+        a {
+            color: #4d4d4d;
+            padding: 0 .2em;
+            transition: all 0.4s linear;
+            border-bottom: #73d56b solid 1px;
+        }
+        a:hover, a:focus {
+            background: #73d56b;
+            color: #000;
+            text-decoration: none;
+        }
+        
+        section {
+            padding-top: 2em;
+        }
+        
+        .uvp h5 {
+            font-weight: 200;
+            text-align: center;
+            font-size: 2em;
+        }
+        
+        .summary h1 {
+            font-size: 2em;
+            border-bottom: #4d4d4d solid 1px;
+            padding-top: 1em;
+        }
+        
+        .summary h2 {
+            padding-top: 1em;
+        }
+        
+        .summary ul {
+            list-style: none;
+            padding-top: .5em;
+        }
+        
+        .summary li {
+            padding: .2em;
+        }
+        
+        .subscribe {
+            font-size: 1.5em;
+            padding-top: 1.5em;
+            text-align: center;
+        }
+        
+        .subscribe a {
+            background: #002920;
+            color: #fff;
+            padding: .5em;
+            border: 1px solid #002920;
+        }
+        
+        .subscribe a:hover,
+        .subscribe a:focus {
+            background: none;
+            color: #002920;
+        }
+        
+        footer {
+            display: flex;
+            justify-content: space-between;
+            background: #ddd;
+            height: 5em;
+            line-height: 5em;
+            margin-top: 2em;
+        }
+    </style>
+    <header>
+        <h1><span>o</span>isiflorus</h1>
+    </header>
 
-        <ul>
-            <h2>Sujets divers</h2>
-            <li><a href=journees-cogitation/prix-libre-et-dialogue.html>Prix libre et dialogué</a></li>
-            <li><a href=#>Nous rejoindre, contribuer</a></li>
-            <li><a href=#>Ressources</a></li>
-            <li><a href=site/sommaire.html>Lister toutes les publications</a></li>
-        </ul>
-</section>
-<footer>
-    <p><a href=/>Oisiflorus</a></p>
-    <p>contact : <a href=mailto:coucou@oisiflorus.com>coucou@oisiflorus.com</a></p>
-    <p>
-        <a href=https://creativecommons.org/publicdomain/zero/1.0/legalcode.fr>licence CC0</a>
-         - 
-        <a href=site/credits.html>Crédits</a>
-    </p>
-</footer>
+    <section class=uvp>
+        <h5>Nous sommes un collectif d’entrepreneur.e.s et d’acteur.rice.s au service des entreprises et projets environnementaux</h5>
+    </section>
+    <section class=summary>
+        <h1>Journées de cogitation pour apprendre ensemble</h1>
+            <ul>
+                <p>Des ateliers sur deux demi-journées un peu partout en France</p>
+                <li><a href=journees-cogitation/lyon/presentation.html>Le 29 et 30 novembre à Lyon - Réduire notre impact sur l’eau</a></li>
+                <li><a href=journees-cogitation/toulouse/presentation.html>Le 6 et 7 décembre à Toulouse - Aider et se faire aider à démarrer son projet "vert"</a></li>
+                <li><a href=journees-cogitation/paris/presentation.html>Le 14 et 15 décembre à Paris - Comprendre (pour l'améliorer) le financement public des projets “verts”</a></li>
+                <li><a href=journees-cogitation/montpellier/presentation.html>Date à fixer - Montpellier - Comment rendre viable mon projet “vert” ?</a></li>
+            </ul>
+            <ul>
+                <li><a href=journees-cogitation/journees-de-cogitation.html>Présentation des journées de cogitation</a></li>
+                <li><a href=journees-cogitation/FAQ-journee-cogitation.html>Foire aux Questions</a></li>
+            </ul>
+            <ul>
+                <h2>Évenements passés</h2>
+                <li><a href=journees-cogitation/nantes/presentation.html>Le 9 et 10 novembre à Nantes - Comment démarrer mon projet “vert” ?</a></li>
+                <li><a href=journees-cogitation/bordeaux/compte-rendu.html>11/10 - Bordeaux - Comment rendre viable mon projet “vert” ?</a></li>
+            </ul>
+            <p class=subscribe><a href=journees-cogitation/inscription.html>s'inscrire</a></p>
+            <ul>
+                <h2>Le collectif</h2>
+                <li><a href=a-propos-de-nous/z-etes-qui.html>Qui sommes nous ?</a></li>
+                <li><a href=a-propos-de-nous/nos-valeurs/valeurs.html>Nos valeurs</a></li>
+                <li><a href=a-propos-de-nous/comment-on-se-finance.html>Comment on se finance</a></li>
+                <li><a href=a-propos-de-nous/nous-contacter.html>Nous contacter</a></li>
+                <li><a href=a-propos-de-nous/code-of-conduct.html>"Code of Conduct"</a></li>
+            </ul>
 
+            <ul>
+                <h2>Sujets divers</h2>
+                <li><a href=journees-cogitation/prix-libre-et-dialogue.html>Prix libre et dialogué</a></li>
+                <li><a href=a-propos-de-nous/slack.html>Nous rejoindre, contribuer</a></li>
+                <li><a href=site/ressources.html>Ressources</a></li>
+                <li><a href=site/sommaire.html>Lister toutes les publications</a></li>
+            </ul>
+    </section>
+    <footer>
+        <p><a href=/>Oisiflorus</a></p>
+        <p>contact : <a href=mailto:coucou@oisiflorus.com>coucou@oisiflorus.com</a></p>
+        <p>
+            <a href=https://creativecommons.org/publicdomain/zero/1.0/legalcode.fr>licence CC0</a>
+            - 
+            <a href=site/credits.html>Crédits</a>
+        </p>
+    </footer>
 </html>
