@@ -1,6 +1,6 @@
-# Les 28 et 29/11 à Lyon : Réduire notre impact sur l'eau
+# Les 29 et 30/11 à Lyon : Réduire notre impact sur l'eau
 
-On se retrouve deux matinées : le mercredi 28 et jeudi 29 novembre, de 9h30 à 13h à Lyon en démarrant au [Court Circuit](https://www.le-court-circuit.fr/).
+On se retrouve deux matinées : le jeudi 29 et vendredi 30 novembre, de 9h30 à 13h à Lyon en démarrant au [Court Circuit](https://www.le-court-circuit.fr/).
 
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" et des citoyen.ne.s engagé.e.s sur les problématiques liées à l'eau.
 
