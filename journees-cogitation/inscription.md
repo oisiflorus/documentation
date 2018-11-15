@@ -11,30 +11,13 @@ Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes 
 
 ## Elles et ils sont déjà inscrits
 
-### [Le 9 et 10 novembre à Nantes - Comment démarrer mon projet “vert” ?](http://www.oisiflorus.com/journees-cogitation/nantes/presentation.html)
-* Veronic Durand, [wearepirouette.fr](https://wearepirouette.fr/)
-* Gaëlle Tavernier
-* Pierre-Marie Bozec
-* Yohann Reverdy
-* Thibault Dugast
-* Cécile Mercat
-* Idrissa M'Boup
-* Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
-* Sabine Safi, [@SabineSafi](https://twitter.com/sabineSafi)
-
-### [Le 16 et 17 novembre à Montpellier - Comment rendre viable mon projet “vert” ?](http://www.oisiflorus.com/journees-cogitation/montpellier/presentation.html)
-* Sandra Tchang
-* Alicia Lambert
-* Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
-* Sabine Safi, [@SabineSafi](https://twitter.com/sabineSafi)
-
-### [Le 28 et 29 novembre à Lyon - Réduire notre impact sur l’eau](http://www.oisiflorus.com/journees-cogitation/lyon/presentation.html)
+### [Le 29 et 30 novembre à Lyon - Réduire notre impact sur l’eau](http://www.oisiflorus.com/journees-cogitation/lyon/presentation.html)
 * Christophe Robillard - [@krichtof](https://twitter.com/krichtof) 
 * Virgile Paultre
 * Yannick Belat
 * Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
 
-### [Le 7 et 8 décembre à Toulouse - Comment démarrer mon projet “vert” ?](http://www.oisiflorus.com/journees-cogitation/toulouse/presentation.html)
+### [Le 6 et 7 décembre à Toulouse - Aider et se faire aider à démarrer son projet "vert"](http://www.oisiflorus.com/journees-cogitation/toulouse/presentation.html)
 * Alicia Lambert
 * Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
 * Sabine Safi, [@SabineSafi](https://twitter.com/sabineSafi)
@@ -54,3 +37,14 @@ Avant la journée, on s'appellera 1/2h pour faire connaissance, discuter de tes 
 * Amandine Defrance - Mon Alter Eco / [EspritZD](http://www.espritzerodechet.fr/)
 * Christophe Robillard - [@krichtof](https://twitter.com/krichtof) 
 * Anne-Lise - 
+
+### [Le 9 et 10 novembre à Nantes - Comment démarrer mon projet “vert” ?](http://www.oisiflorus.com/journees-cogitation/nantes/presentation.html)
+* Veronic Durand, [wearepirouette.fr](https://wearepirouette.fr/)
+* Gaëlle Tavernier
+* Pierre-Marie Bozec
+* Yohann Reverdy
+* Thibault Dugast
+* Cécile Mercat
+* Idrissa M'Boup
+* Stéphane Langlois, [e-mail](mailto:%73t%65%70h%61n%65&#46;&#108;a&#110;glo&#105;&#115;&#64;s%63&#111;&#112;%79l%65f%74%2e%66&#114;)
+* Sabine Safi, [@SabineSafi](https://twitter.com/sabineSafi)
