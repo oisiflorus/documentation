@@ -36,7 +36,7 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire.
 [Nous sommes](/a-propos-de-nous/z-etes-qui.html) un petit collectif d'entrepreneur.e.s et d'acteur.rice.s du domaine de l'environnement. À nous tou.te.s, nous avons l'expérience de la création de différents types d'entreprises, startups, scop et associations, du travail collaboratif et de l'implication dans des projets environnementaux variés.
 
 ## C'est payant ?
-On propose une PàF qui est [libre et dialoguée](../prix-libre-et-dialogue.html).
+On propose une participation aux frais qui est [libre et dialoguée](../prix-libre-et-dialogue.html).
 
 ## J'en suis ! Comment je m'inscris ?
 L'inscription se passe [par ici](../inscription.html).
