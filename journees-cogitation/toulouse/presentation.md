@@ -1,6 +1,6 @@
 # Les 6 et 7/12 à Toulouse : aider et se faire aider à démarrer son projet "vert"
 
-On se retrouve deux matinées : le jeudi 6 et vendredi 7 décembre, de 9h30 à 13h dans le centre de Toulouse. 
+On se retrouve deux matinées : le jeudi 6 et vendredi 7 décembre, de 9h30 à 13h au Café Cerise. 
 
 Nous allons cogiter avec des personnes qui ont un projet ou entreprise environnementale, pour la (re)lancer rapidement, tester les hypothèses initiales et éclaircir les étapes suivantes.
 
