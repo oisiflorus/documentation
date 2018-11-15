@@ -24,7 +24,7 @@ On définira ensemble le programme exact de chaque matinée en arrivant. Par exe
 
 ## C'est quoi, une "Journée de cogitation" ?
 
-Sur deux matinées, en explorant des lieux insolites dans Toulouse, on va réfléchir/apprendre ensemble comment démarrer ton projet sur de bonnes bases.
+Sur deux matinées, en explorant des lieux insolites dans Toulouse, on va réfléchir/apprendre ensemble comment faire avancer nos projets respectifs.
 
 On commence chaque journée en définissant ensemble le programme, selon les attentes de chacun.e.
 Dans chaque nouveau lieu on fera un nouvel atelier.
@@ -37,9 +37,6 @@ On profite des trajets pour débriefer sur ce qu'on vient de faire.
 
 ## C'est payant ?
 On propose une PàF qui est [libre et dialoguée](../prix-libre-et-dialogue.html).
-
-**Et si c’est trop cher pour moi ?** 
-Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va trouver une solution !
 
 ## J'en suis ! Comment je m'inscris ?
 L'inscription se passe [par ici](../inscription.html).
