@@ -53,7 +53,7 @@ Nous recommandons de poster sur la chaîne #Général l'information que l'on a c
 
 #### Présentation des chaines
 
-- #Général : pour poster les infos qui concernent tout le monde et qui ne sont pas attachées à une chaine spécifique.
-- #JournéesCofitation : Messages concernant les [journées du tour France](http://www.oisiflorus.com/journees-cogitation/journees-de-cogitation.html)
-- #ressources : Tu as peut-être des liens vers des sites ou des ressources en PDF liés à Oisiflorus, c'est ici que tu peux les poster.
-- #aléatoires : Pour éviter d'augmenter le rapport -signal/bruit- tu pourras poster tes billets d'humeur et d'humour sur cette chaine.
+- **#Général** : pour poster les infos qui concernent tout le monde et qui ne sont pas attachées à une chaine spécifique.
+- **#JournéesCofitation** : Messages concernant les [journées du tour France](http://www.oisiflorus.com/journees-cogitation/journees-de-cogitation.html)
+- **#ressources** : Tu as peut-être des liens vers des sites ou des ressources en PDF liés à Oisiflorus, c'est ici que tu peux les poster.
+- **#aléatoires** : Pour éviter d'augmenter le rapport -signal/bruit- tu pourras poster tes billets d'humeur et d'humour sur cette chaine.
