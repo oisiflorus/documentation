@@ -26,7 +26,7 @@ Ce n'est pas toujours facile pour quelqu'un·e de rejoindre un groupe existant, 
 
 ## Paramétrage des notifications, ou comment ne pas subir Slack
 Slack envoie certaines notifications par email par défaut. Selon si tu as installé l'application mobile et/ou le logiciel pour ordinateur, tu peux en recevoir d'autres.
-Bonne nouvelle ! Tu peux complètement paramétrer toutes ces notifications pour ne pas te faire submerger : https://get.slack.help/hc/fr-fr/articles/201355156-Guide-des-notifications-de-Slack-
+Bonne nouvelle ! Tu peux complètement [paramétrer toutes ces notifications](https://get.slack.help/hc/fr-fr/articles/201355156-Guide-des-notifications-de-Slack-) pour ne pas te faire submerger.
 
 ## Code of Conduct
 Dans le cadre de nos intéractions, chaque personne doit pouvoir se sentir en confiance.
@@ -51,6 +51,9 @@ Nous recommandons de poster sur la chaîne #Général l'information que l'on a c
 
 ![](./slack-chaine.jpg)
 
-- Présentation des channels
+#### Présentation des chaines
 
-https://github.com/betagouv/beta.gouv.fr/wiki/Slack
+- #Général : pour poster les infos qui concernent tout le monde et qui ne sont pas attachées à une chaine spécifique.
+- #JournéesCofitation : Messages concernant les [journées du tour France](http://www.oisiflorus.com/journees-cogitation/journees-de-cogitation.html)
+- #ressources : Tu as peut-être des liens vers des sites ou des ressources en PDF liés à Oisiflorus, c'est ici que tu peux les poster.
+- #aléatoires : Pour éviter d'augmenter le rapport -signal/bruit- tu pourras poster tes billets d'humeur et d'humour sur cette chaine.
