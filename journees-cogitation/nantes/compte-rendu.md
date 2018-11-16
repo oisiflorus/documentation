@@ -7,8 +7,15 @@
 - Place du marché - (post-it)
 
 ### Le Pangolin - 11h15
-- Collapsologie vs Colibri
-- Arbrifeste
+####  Collapsologie vs Colibri
+####  Arbrifeste  
+Une petit groupe s'est formé pour échanger sur les valeurs partagées dans un collectif :  
+- *Comment s'accorder à la création ?*   
+Outil : [arbrifeste](https://github.com/lilianricaud/travail-en-reseau/blob/master/arbrifeste.md)
+- *Comment s'accorder avec les nouveaux arrivants ?*  
+Si le collectif n'est pas ancré sur un territoire, on pourrait demander à ce que les nouvelles personnes soient informées et adhèrent aux valeurs pré-existantes.  
+Outils : [JM-Cornu](https://www.youtube.com/user/jmichelcornu) - [Les valeurs de la Cagette](https://lacagette-coop.fr/page/nos-valeurs)  
+Comme l'a souligné Gaëlle T. Cela n'est pas toujours possible et une association de quartier, par exemple, à vocation à accueillir tous les publics. 
 
 ### La Grande Barge - 12h50
 
