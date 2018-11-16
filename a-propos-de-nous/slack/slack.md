@@ -8,7 +8,6 @@ L'un des objets de Oisiflorus, c'est de rassembler des personnes qui :
 
 Pour l'instant, ce Slack nous paraît être l'outil le plus adapté pour que ces personnes se "rencontrent", discutent, s'organisent, créent des projets...
 
-
 ## Inviter d'autres personnes
 Tu peux inviter des personnes avec qui ça a du sens de discuter sur le Slack de Oisiflorus. Pour éviter d'avoir l'impression de discuter avec de parfait·e·s inconnu·e·s, ce serait plus sympa d'accompagner les nouveaux arrivant·e·s et de leurs proposer d'écrire un petite présentation sur la chaine : général.
 
@@ -30,8 +29,9 @@ Slack envoie certaines notifications par email par défaut. Selon si tu as insta
 Bonne nouvelle ! Tu peux complètement paramétrer toutes ces notifications pour ne pas te faire submerger : https://get.slack.help/hc/fr-fr/articles/201355156-Guide-des-notifications-de-Slack-
 
 ## Code of Conduct
-    - liens 
-    - spécificités slack
+Dans le cadre de nos intéractions, chaque personne doit pouvoir se sentir en confiance.
+
+Pour essayer de clarifier notre intention et aider les personnes impliquées à comprendre notre vision, nous avons rédiger un ["Code of Conduct"](http://www.oisiflorus.com/a-propos-de-nous/code-of-conduct.html) dont nous aimerions te conseiller la lecture.
 
 ## Rapport signal/bruit
 Les discussions sur cet espace n'intéresseront généralement pas *chaque membre* à *chaque fois*.
