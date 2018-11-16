@@ -43,13 +43,13 @@ Pour répondre à un message sans que tous les membres de la chaîne ne reçoive
 
 *Lire plus sur la doc officielle de Slack [ici](https://get.slack.help/hc/fr-fr/articles/115000769927-Fils-de-discussion-de-messages-et-de-fichiers)*
 
-![](./slack-chaine.png)
+![](./slack-chaine.jpg)
 
 ### Les chaînes
 Lorsque certains sujets sont récurrents et n'intéressent pas forcément l'ensemble des membres, il est adapté de créer une chaîne dédiée. Les chaînes sont publiques et n'importe qui peut en créer une ou en rejoindre une.
 Nous recommandons de poster sur la chaîne #Général l'information que l'on a créé une nouvelle chaîne (et de laisser les personnes décider de la rejoindre ou pas).
 
-![](./slack-chaine.png)
+![](./slack-chaine.jpg)
 
 - Présentation des channels
 
