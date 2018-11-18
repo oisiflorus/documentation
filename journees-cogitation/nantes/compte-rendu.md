@@ -26,7 +26,8 @@ Comme l'a souligné Gaëlle T. Cela n'est pas toujours possible et une associati
 ## Samedi 10 novembre 2018
 
 ### Café la Branche - 9h30
-- Comment trouver un•e partenaire/un•e associé•e 
+- *Comment trouver un•e partenaire/un•e associé•e* (Véronique)
+Le type de relation recherchée influence le choix de la collaboration appropriée. Pour savoir si l'on a besoin d'un•e associé•e, d'un•e partenaire, d'un•e prestataire il faut avant tout clarifier l'objectif de la collaboration, les besoins et les ressources dont on dispose (notamment pour la question de la rémunération).
 
 ### La Conciergerie - 10h45
 - Running lean
