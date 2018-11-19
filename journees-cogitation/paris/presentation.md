@@ -1,6 +1,6 @@
-# Les 14 et 15/12 à Paris : Comprendre (pour l'améliorer) le financement public des projets environnementaux
+# Les 13 et 14/12 à Paris : Comprendre (pour l'améliorer) le financement public des projets environnementaux
 
-On se retrouve deux matinées : le vendredi 14 et le samedi 15 décembre, de 9h30 à 13h à Paris, on démarre au marché d'Aligre. *On envisage de tout faire sur la journée du 14 (ça ferait une grrrrosse journée), [dis nous](../../a-propos-de-nous/nous-contacter.html) si tu préfères cette option*
+On se retrouve deux matinées : le jeudi 13 et le vendredi 14 décembre, de 9h30 à 13h à Paris, on démarre au marché d'Aligre. *On envisage de tout faire sur la journée du 14 (ça ferait une grrrrosse journée), [dis nous](../../a-propos-de-nous/nous-contacter.html) si tu préfères cette option*
 
 Nous allons cogiter avec des personnes impliquées dans le financement des projets environnementaux et des entrepreneur.e.s "vert.e.s" pour mieux comprendre comment la puissance publique peut faciliter l'émergence d'initiatives liées aux problématiques environnementales.
 
