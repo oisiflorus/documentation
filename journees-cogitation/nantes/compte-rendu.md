@@ -58,15 +58,23 @@ Comme l'a souligné Gaëlle T. Cela n'est pas toujours possible et une associati
 #### Comment trouver un•e partenaire/un•e associé•e ? (Véronique) :
 Le type de relation recherchée influence le choix de la collaboration appropriée. Pour savoir si l'on a besoin d'un•e associé•e, d'un•e partenaire, d'un•e prestataire il faut avant tout clarifier l'objectif de la collaboration, les besoins et les ressources dont on dispose (notamment pour la question de la rémunération).
 #### Histoire Lean-Agile & Lean Startup
-Nous avons remonté le temps pour rechercher les origines des approches lean et agile. Parlé de Demming 
+Nous avons remonté le temps pour rechercher les origines des approches lean et agile. Parlé de Deming, du Japon, de Kanban, de l'approche Lean Startup et de boucle de *feedback*, évoqué *ShuHaRi*, etc..
 
 ### La Conciergerie - 10h45
 #### Running lean
-
+Initiation à *Running Lean* en partant d'un *lean canvas*.  
+Thibault a proposé que l'on parte sur l'exemple de *oisiflorus*.  
+Nous avons démarré en identifiant des cohortes puis formulé des hypothèses de problèmes. Nous avons détaillé ce qu'étais les interviews problèmes et balayés rapidement les autres étapes de la méthode.
 
 ### Déjeuner à la Guinguette - 13h
+#### Clôture
+Pour terminer la session Nantes, nous avons choisi de partir sur un [conseil](https://ut7.fr/blog/2015/11/18/animer-vos-retrospectives-avec-le-conseil.html).  
+Quelques vœux :  
+- Aller dans des lieux zéro déchet
+- Utiliser les après midi pour des informelles
+- Pour certain·e, venir dans une autre ville
+- Rencontrer les communautés des autres villes
 
 ### Rétrospective à Trentemoult - 15h
-
 La [compta de la journée est ici](compta-et-lieux.html).
 La [fiche de présentation initiale de la journée est là](presentation.html).
