@@ -57,9 +57,12 @@ Comme l'a souligné Gaëlle T. Cela n'est pas toujours possible et une associati
 ### Café la Branche - 9h30
 #### Comment trouver un•e partenaire/un•e associé•e ? (Véronique) :
 Le type de relation recherchée influence le choix de la collaboration appropriée. Pour savoir si l'on a besoin d'un•e associé•e, d'un•e partenaire, d'un•e prestataire il faut avant tout clarifier l'objectif de la collaboration, les besoins et les ressources dont on dispose (notamment pour la question de la rémunération).
+#### Histoire Lean-Agile & Lean Startup
+Nous avons remonté le temps pour rechercher les origines des approches lean et agile. Parlé de Demming 
 
 ### La Conciergerie - 10h45
-- Running lean
+#### Running lean
+
 
 ### Déjeuner à la Guinguette - 13h
 
