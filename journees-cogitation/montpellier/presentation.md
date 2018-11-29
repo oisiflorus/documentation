@@ -1,6 +1,6 @@
-# Les 16 & 17/11 à Montpellier : Rendre mon projet environnemental économiquement viable
+# On ne sait pas quand à Montpellier : Rendre mon projet environnemental économiquement viable
 
-On se retrouve deux matinées, le vendredi 16 et samedi 17 novembre, de 9h30 à 13h dans l'Ecusson, à Montpellier.
+On se retrouve pour deux matinées sur des dates qui restent à fixer, de 9h30 à 13h dans l'Ecusson, à Montpellier.
 
 Nous allons cogiter avec des entrepreneur.e.s "vert.e.s" pour concilier l'impact environnemental et la viabilité financière de leur projet.
 
