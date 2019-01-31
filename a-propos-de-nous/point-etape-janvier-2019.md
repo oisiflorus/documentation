@@ -40,8 +40,11 @@ Au dodo sans trop savoir ce qui va sortir du week-end...
 Stéphane : "David L. a vu nos idées d'hier soir, il a dit 'Eco-friendly-places c'est top' !".
 Cette phrase semble avoir fait re-émerger l'idée dans la tête de tout le monde... et on se dit que c'est une cool idée !
 
-Débat : est-ce qu'on peut travailler sur plusieurs projets ?
+Est-ce qu'on peut travailler sur plusieurs projets ?
 --> A terme, pourquoi pas, mais dans un premier temps on a besoin de se focaliser sur une première réalisation, d'amener au moins une chose à son terme avant de se disperser.
+
+Est-ce qu'on fait les choses "proprement" et fait un lean canvas dans les règles (quelques dizaines de personnes à interviewer 2x) ?
+--> Pas terrible pour le niveau d'enthousiasme. On commence par faire un produit qui nous convient à nous et on verra après qui d'autre ça peut intéresser.
 
 ### 11h : Départ de Yannick
 
