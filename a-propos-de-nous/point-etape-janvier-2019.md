@@ -13,18 +13,19 @@ Arrivée vers 19h. Soirée consacrée à satisfaire certains besoins fondamentau
 
 Beaucoup d'enthousiasme au départ, un peu entamé par la suite.
 Un peu de frustration avec le travail à distance.
-Un engagement sur la journée plus en dents de scie
-Plus de l'accompagnement que des outils précis
-Format intéressant pour que les participant.e.s puissent s'interogger sans rentrer dans un cadre de conférence ou apocalyptique (ex Lyon sur l'eau)
-Enjeu à ramener des participant.e.s sans que cela ne soit chronophage et démotivant
-Pas toujours évident de sortir de la posture du sachant en temps normal, ce format permet d'en sortir un peu.
-Travailler sur d'autres hypothèses
-Pas mal d'enthousiasme sur le format en lui-même
+Un engagement sur la journée plus en dents de scie.
+Plus de l'accompagnement que des outils précis.
+Format intéressant pour que les participant.e.s puissent s'interroger sans rentrer dans un cadre de conférence ou aevec une approche apocalyptique/dramatisante (ex Lyon sur l'eau).
+Enjeu à ramener des participant.e.s sans que cela ne soit chronophage et démotivant.
+Le format permet de sortir de la posture de "sachant" que l'on peut adopter dans des cadres plus conventionnels.
+Travailler sur d'autres hypothèses.
+Pas mal d'enthousiasme sur le format en lui-même.
+L'impression parfois de ne pas répondre aux vrais problèmes des participant.e.s.
 
 ### 15h-16h30 : Balade, de quoi a-t-on envie pour la suite ?
 Balade dans une direction aléatoire en se demandant si on va se faire truffer de plomb par des chasseurs. 
 Discussion : ce dont chacun.e a envie ou pas envie pour la suite 
-Certain.e.s ont été suffisamment enthousiasmés par les Journées de Cogitation pour envisager de continuer. D'autres manque d'enthousiasme à cette idée et préfèrent passer à autre chose. L'envie de créer quelque chose ensemble, avec des valeurs partagées fortes (consentement en tête) et qui a un impact positif sur l'environnement est partagée par tou.te.s.
+Certain.e.s ont été suffisamment enthousiasmés par les Journées de Cogitation pour envisager de continuer. D'autres manquent d'enthousiasme à cette idée et préfèrent passer à autre chose. L'envie de créer quelque chose ensemble, avec des valeurs partagées fortes (consentement en tête) et qui a un impact positif sur l'environnement est partagée par tou.te.s.
 Travailler sur un produit ou travailler en mode projet/service ? Plusieurs sont plus familiers avec le mode projet. D'autres ont une nette préférence à créer un produit. On décide finalement de s'orienter produit. 
 
 ### 19h-20h (?) : l'atelier de tous les possibles ("Et si...")
