@@ -34,7 +34,7 @@ Liste des sujets :
 - Actions individuelles vs actions collectives.
 - Légitimer ses valeurs par une appartenance à un groupe de personnes plus larges (mais quoi ? Parti politique ? Association ? Collectif ?).
 - Exemples : mouvement des coquelicots, mouvement place publique.
-- Questions de l'échelle : locale ? régionale ? nationale ?
+- Questions de l'échelle : locale ? régionale ? nationale ? Agir en local, coordonner au niveau global (pyramide inversée de pouvoir. Même chose que l'entreprise libérée ?). 
 - Se faire rencontrer des personnes dans un mouvement, ok, mais derrière les engagements, quelles actions ?
 
 ####  Arbrifeste  
@@ -47,6 +47,12 @@ Outils : [JM-Cornu](https://www.youtube.com/user/jmichelcornu) - [Les valeurs de
 Comme l'a souligné Gaëlle T. Cela n'est pas toujours possible et une association de quartier, par exemple, à vocation à accueillir tous les publics. 
 
 ### La Grande Barge - 12h50
+Mini rétro format J'ai aimé / Pas aimé / Proposition de changement
+Notamment : 
+- Un participant est venu avec un besoin/questionnement précis, il sera déçu si on ne l'aborde pas à un moment --> On fait un tour des attentes des un.e.s et des autres.
+- Difficile pour certain.e.s de faire entendre leur voix sur le choix d'un sujet de cogitation --> Utilisons le vote par points.
+
+Déjeuner.
 
 ### Balade Rezé - 15h
 #### Visite de Scopélie
@@ -56,7 +62,9 @@ Comme l'a souligné Gaëlle T. Cela n'est pas toujours possible et une associati
 
 ### Café la Branche - 9h30
 #### Comment trouver un•e partenaire/un•e associé•e ? (Véronique) :
-Le type de relation recherchée influence le choix de la collaboration appropriée. Pour savoir si l'on a besoin d'un•e associé•e, d'un•e partenaire, d'un•e prestataire il faut avant tout clarifier l'objectif de la collaboration, les besoins et les ressources dont on dispose (notamment pour la question de la rémunération).
+Le type de relation recherchée influence le choix de la collaboration appropriée. Pour savoir si l'on a besoin d'un•e associé•e, d'un•e partenaire, d'un•e prestataire il faut avant tout clarifier l'objectif de la collaboration, les besoins et les ressources dont on dispose (notamment pour la question de la rémunération). Si on cherche un CTO associé, on ne peut pas lui laisser un rôle d'exécutant, sinon, c'est un salarié.
+Comment savoir si ça va marcher avec cette personne ?
+
 #### Histoire Lean-Agile & Lean Startup
 Nous avons remonté le temps pour rechercher les origines des approches lean et agile. Parlé de Deming, du Japon, de Kanban, de l'approche Lean Startup et de boucle de *feedback*, évoqué *ShuHaRi*, etc..
 
@@ -65,6 +73,14 @@ Nous avons remonté le temps pour rechercher les origines des approches lean et 
 Initiation à *Running Lean* en partant d'un *lean canvas*.  
 Thibault a proposé que l'on parte sur l'exemple de *oisiflorus*.  
 Nous avons démarré en identifiant des cohortes puis formulé des hypothèses de problèmes. Nous avons détaillé ce qu'étais les interviews problèmes et balayés rapidement les autres étapes de la méthode.
+
+### Mettre en mouvement un écosystème
+Comment mettre en mouvement un écosystème : pour quoi, pour qui ? Comment valoriser ou rétribuer les connecteurs ? On a besoin d'eux pour mettre en mouvement...
+Idée pour faire avancer des communautés de petites tailles : taille max et durée limitée. Créer un nouveau groupe plutôt que dépasser une certaine taille. Reste à coordonner ?
+
+### Orgaisation personnelle 
+Gestion des contacts, CRM. 
+Un moyen de communication inclusif ? Comment garder le contact ? Slack, lieux de travail...?
 
 ### Déjeuner à la Guinguette - 13h
 #### Clôture
